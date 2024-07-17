@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Preview{% endblock %}
+
+{% block content %}
+    <div class="main-content">
+        <div id="preview-section" class="section">
+            <div class="wrapper">
+                <div class="container">
+                    <h1>Data Preview</h1>
+                    {% if data_preview %}
+                        <div id="data-preview">
+                            <h2>Data Preview (First 10 Rows)</h2>
+                            {{ data_preview|safe }}
+                        </div>
+                    {% endif %}
+                    <a href="{{ url_for('uploaded_file', filename=filename) }}">Download Processed File</a>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

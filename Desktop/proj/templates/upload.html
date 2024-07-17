@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block title %}Upload{% endblock %}
+
+{% block content %}
+    <div class="main-content">
+        <div id="upload-section" class="section">
+            <div class="wrapper">
+                <div class="container">
+                    <h1>Upload a file</h1>
+                    <div class="upload-container">
+                        <div class="border-container">
+                            <div class="icons fa-4x">
+                                <i class="fas fa-file-image" data-fa-transform="shrink-3 down-2 left-6 rotate--45"></i>
+                                <i class="fas fa-file-alt" data-fa-transform="shrink-2 up-4"></i>
+                                <i class="fas fa-file-pdf" data-fa-transform="shrink-3 down-2 right-6 rotate-45"></i>
+                            </div>
+                            <form action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data">
+                                <p>
+                                    Drag and drop files here, or
+                                    <a href="#" id="file-browser">browse</a> your computer.
+                                </p>
+                                <input type="file" id="file-upload" name="fileUpload" required>
+                                <p id="error-message"></p>
+                                <div id="data-preview"></div>
+
+                                <fieldset>
+                                    <legend>Optional Settings</legend>
+                                    <fieldset>
+                                        <legend>Missing Value Handling</legend>
+                                        <input type="radio" id="removeMissing" name="missingValue" value="remove">
+                                        <label for="removeMissing">Remove Rows with Missing Values</label><br>
+                                        <input type="radio" id="imputeMean" name="missingValue" value="mean">
+                                        <label for="imputeMean">Impute with Mean</label><br>
+                                        <input type="radio" id="imputeMedian" name="missingValue" value="median">
+                                        <label for="imputeMedian">Impute with Median</label><br>
+                                        <input type="radio" id="imputeMode" name="missingValue" value="mode">
+                                        <label for="imputeMode">Impute with Mode</label><br>
+                                    </fieldset>
+                                    <fieldset>
+                                        <legend>Formatting</legend>
+                                        <label for="delimiter">Delimiter (for CSV files):</label>
+                                        <select id="delimiter" name="delimiter">
+                                            <option value=",">Comma ( , )</option>
+                                            <option value=";">Semicolon ( ; )</option>
+                                            <option value="\t">Tab</option>
+                                        </select>
+                                        <label for="dateFormat">Date Format:</label>
+                                        <select id="dateFormat" name="dateFormat">
+                                            <option value="">YYYY-MM-DD (default)</option>
+                                            <option value="MM-DD-YYYY">MM-DD-YYYY</option>
+                                        </select>
+                                    </fieldset>
+                                </fieldset>
+                                <button type="submit">Upload</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

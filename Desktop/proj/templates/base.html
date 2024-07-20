@@ -24,20 +24,22 @@
         </div>
     </div>
 
+    <h1>Welcome to the Fraud Detection System</h1>
     <!-- Toggle menu -->
     <div class="sidebar" id="sidebar">
         <a href="javascript:void(0)" class="closebtn" id="closeSidebar">&times;</a>
         <div class="items">
             <ul>
-                <li><a href="upload.html">Upload</a></li>
-                <li><a href="..\templates\train.html">Train</a></li>
-                <li><a href="..\templates\test.html">Test</a></li>
-                <li><a href="..\templates\analysis.html">Analysis</a></li>
+                <li><a href="/upload">Upload</a></li>
+                <li><a href="/train">Train</a></li>
+                <li><a href="/test">Test</a></li>
+                <li><a href="/analysis">Analysis</a></li>
             </ul>
         </div>
     </div>
 
     {% block content %}{% endblock %}
+     {% block upload_js %}{% endblock %}
 
     <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 </body>

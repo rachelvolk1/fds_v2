@@ -2,15 +2,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const toggleSidebarButton = document.getElementById('toggleSidebar');
     const closeSidebarButton = document.getElementById('closeSidebar');
     const sidebar = document.getElementById('sidebar');
-    const sectionLinks = document.querySelectorAll('.sidebar a');
-    const sections = document.querySelectorAll('.section');
     const profileImage = document.getElementById('profileImage');
     const profileDropdown = document.getElementById('profileDropdown');
     const tabLinks = document.querySelectorAll('.nav-link');
     const tabContents = document.querySelectorAll('.tab-pane');
   
 
-    
     // Toggle sidebar visibility
     toggleSidebarButton.addEventListener('click', function() {
         sidebar.style.width = '250px';
@@ -18,25 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
   
     closeSidebarButton.addEventListener('click', function() {
         sidebar.style.width = '0';
-    });
-  
-    // Add click event listener to each sidebar link
-    sectionLinks.forEach(link => {
-        link.addEventListener('click', function(event) {
-            event.preventDefault();
-  
-            // Hide all sections
-            sections.forEach(section => {
-                section.style.display = 'none';
-            });
-  
-            // Show the selected section
-            const targetSection = document.querySelector(this.getAttribute('href'));
-            targetSection.style.display = 'block';
-  
-            // Close the sidebar
-            sidebar.style.width = '0';
-        });
     });
   
     // Profile dropdown functionality

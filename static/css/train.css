@@ -1,0 +1,37 @@
+/* Train Section */
+#train-section {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional subtle shadow */
+  }
+  
+  .data-preview,
+  .training-config,
+  #training-status {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); /* Optional subtle shadow */
+  }
+  
+  /* Training Status */
+  #training-message {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .progress-bar {
+    height: 5px;
+    background-color: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .progress {
+    height: 100%;
+    background-color: #007bff; /* Adjust color as desired */
+    width: 0%;
+    transition: width 0.5s ease-in-out; /* Animation for progress bar */
+  }

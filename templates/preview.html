@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+
+{% block title %}Preview{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/preview.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/sb-admin-2.min.css') }}">
+<link href="{{ url_for('static', filename='dashboard/vendor/datatables/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Preview</h1>
+    
+    <!-- DataTable pre-->
+    <div class="card shadow mb-4 mt-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Dataset Preview</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table id="dataTable" class="display" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>TPIN</th>
+                            <th>LOCATION</th>
+                            <th>TAX TYPE</th>
+                            <th>Transaction ID</th>
+                            <th>Period From</th>
+                            <th>Period To</th>
+                            <th>Payment Method</th>
+                            <th>Payment Amount</th>
+                            <th>Payment Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Data will be dynamically inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <!-- Load Dataset Button -->
+    <div class="load-dataset-button">
+        <button id="load-dataset">Load Dataset</button>
+        <div id="status-message" class="status-message"></div>
+    </div>
+</div>
+<!-- /.container-fluid -->
+{% endblock %}
+
+{% block scripts %}
+    <!-- jQuery -->
+    <script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+    <!-- Bootstrap -->
+    <script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <!-- jQuery Easing -->
+    <script src="{{ url_for('static', filename='vendor/jquery-easing/jquery.easing.min.js') }}"></script>
+    <!-- Custom scripts for all pages -->
+    <script src="{{ url_for('static', filename='js/sb-admin-2.min.js') }}"></script>
+    <!-- DataTables -->
+    <script src="{{ url_for('static', filename='vendor/datatables/jquery.dataTables.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='vendor/datatables/dataTables.bootstrap4.min.js') }}"></script>
+    <!-- Page level custom scripts -->
+    <script src="{{ url_for('static', filename='js/demo/datatables-demo.js') }}"></script>
+    <script src="/static/js/preview.js"></script>
+    <script src="{{ url_for('static', filename='js/preview.js') }}"></script>
+
+    <script>
+        $(document).ready(function() {
+            // Initialize DataTable with pagination, sorting, filtering, and search enabled
+            var table = $('#dataTable').DataTable({
+                paging: true,
+                searching: true,  // Activate search
+                ordering: true,   // Activate column sorting
+                info: true,       // Activate info at the bottom
+                pageLength: 10,   // Set default page length
+                lengthMenu: [10, 25, 50, 100], // Options for page length
+                language: {
+                    search: "Filter records:", // Change search label text
+                    lengthMenu: "Show _MENU_ entries",
+                    info: "Showing _START_ to _END_ of _TOTAL_ entries",
+                    paginate: {
+                        previous: "Previous",
+                        next: "Next"
+                    }
+                }
+            });
+
+            // Load dataset dynamically when button is clicked
+            $('#load-dataset').on('click', function() {
+                // Simulate loading dataset - you can replace this with actual loading logic
+                $('#status-message').text("Loading dataset...");
+                setTimeout(function() {
+                    $('#status-message').text("Dataset loaded successfully.");
+                    table.draw();  // Redraw DataTable
+                }, 1000);
+            });
+        });
+    </script>
+{% endblock %}

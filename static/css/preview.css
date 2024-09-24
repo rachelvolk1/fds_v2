@@ -1,0 +1,42 @@
+/* Shared styles for all buttons */
+.button {
+  background-color: #3498db; /* Light blue */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Indicate clickable element */
+  transition: background-color 0.2s ease-in-out; /* Smooth hover effect */
+}
+
+.button:hover {
+  background-color: #2980b9; /* Darker blue on hover */
+}
+
+/* Specific styles for different buttons */
+#search-button,
+#filter-button,
+#update-rows,
+#load-dataset {
+  margin: 5px; /* Add some spacing */
+}
+
+#prev-page,
+#next-page {
+  background-color: #ecf0f1; /* Lighter background for pagination */
+  color: #3498db; /* Match primary color */
+}
+
+/* Style for the status message */
+#status-message {
+  margin-left: 10px; /* Add some spacing */
+  color: green; /* Indicate success */
+}
+
+#status-message.loading {
+  color: orange; /* Indicate loading */
+}
+
+#status-message.error {
+  color: red; /* Indicate error */
+}

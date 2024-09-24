@@ -1,0 +1,85 @@
+.task-box-container {
+    width: 100%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+}
+
+.task-box-header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.task-box-header button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.task-box-header button:hover {
+    background-color: #0056b3;
+}
+
+.task-section {
+    margin-bottom: 30px;
+}
+
+.task-section h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+table.display {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.display thead {
+    background-color: #007bff;
+    color: white;
+}
+
+table.display th,
+table.display td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table.display tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table.display tbody tr:hover {
+    background-color: #e0e0e0;
+}
+/* Custom styling (optional) */
+
+.table th, .table td {
+    text-align: left;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e9ecef;
+}
+/* Custom styling for table headers */
+.table thead th {
+    background-color: #007bff; /* Blue shade */
+    color: white; /* Text color for better contrast */
+}
+
+/* Optional: Style the header row for a slightly different look */
+.table thead th {
+    font-weight: bold;
+}

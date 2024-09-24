@@ -1,0 +1,201 @@
+Transaction ID,Payment Date,Payment Amount,Payment Method,Tax Type,Taxpayer ID,Taxpayer Industry,Province,Town/City,Income Level
+5fd7fe25-9b99-4956-bcb1-825a78880f67,2023-12-29,2606.1,Debit Card,VAT,99a1f60a-eb79-4e15-a7df-f8c7bbe0b079,Finance,Province A,City B,Medium
+0f455532-e792-463c-adeb-6a52d190a680,2024-02-06,2448.41,Bank Transfer,Property Tax,cb9de886-d028-4d00-b305-ed981fd4d7fc,Construction,Province B,City A,Medium
+044c8480-ddc5-44c9-bd7e-8a561fa7d42e,2023-05-08,2721.21,Mobile Money,Sales Tax,a8f46ccc-14f7-4932-87cc-fc17cfa2e4eb,Technology,Province E,City C,Low
+61390a4a-dca8-4092-a6b3-731c25c3c03c,2022-12-27,9214.16,Mobile Money,Corporate Tax,7d645df5-d44e-4153-846c-6f8d1c4c1838,Finance,Province A,City A,Low
+7a1e52f9-8813-4aee-b279-ecb576fb4ad6,2023-06-25,2508.32,Bank Transfer,Income Tax,07370b7b-8e69-4fc5-813e-19f08708df7d,Finance,Province B,City B,Medium
+e51a8a98-0cfb-4c9d-8f1d-0bc9111f4306,2023-03-04,1270.1,Mobile Money,Property Tax,23b6cba3-561c-403b-b69c-e0e4c8168b2c,Retail,Province D,City C,Medium
+26bd501f-e907-4ac3-88eb-2da2693c95ef,2022-09-16,6086.15,Debit Card,VAT,c645faec-4dda-4882-9b42-b7045fc9b8f5,Technology,Province C,City C,High
+e4b2357d-c1de-4330-9b01-5eed508b38b0,2023-09-04,1739.88,Mobile Money,Property Tax,6f60f2e6-d1af-4974-a277-82b469d4536f,Finance,Province A,Town A,High
+e7594fc1-81e0-48cf-9708-468c97f2dc8e,2023-01-27,4339.42,Bank Transfer,Sales Tax,df2116b7-42e2-453c-9031-b945c36bdcb7,Finance,Province C,City B,Medium
+ce2764dd-aefb-4429-9b6d-43326b9c0dd4,2023-02-04,3185.6,Bank Transfer,VAT,bb26d219-fc82-4a20-9493-0f116cf55539,Finance,Province C,City C,High
+19c96a65-69ac-46e8-9bd2-bbb8dcd5334e,2024-06-30,676.23,Debit Card,Property Tax,a5f05f80-ea07-4936-84d2-b32cae3deab8,Construction,Province B,City C,Low
+46bf6cc8-29aa-48a7-89f9-a5f5a5682fce,2023-10-01,1466.54,Mobile Money,Sales Tax,d77acfb0-c64f-42e9-a4b4-e178d4a6b43f,Construction,Province C,City A,Medium
+2a8e7142-0c61-46dd-a3b4-c38eaf86165c,2023-05-07,9273.78,Mobile Money,VAT,b5fa277e-74c2-4be3-96af-537e758461a6,Retail,Province E,City C,Medium
+879f8569-af44-4d91-a2ba-afb698a5b460,2023-08-20,1747.94,Bank Transfer,Income Tax,77d7ebef-0f37-4c03-8701-4d154623fcf0,Technology,Province A,City C,Medium
+7555eb8f-73ab-4229-a9f2-6861973cd814,2023-05-27,1893.99,Credit Card,Property Tax,44ecc440-a15b-45ab-9ee5-db6be5c5fbba,Technology,Province D,Town B,High
+c3e50933-2b70-4dc7-b8c3-8a422c78551b,2023-10-21,4291.78,Debit Card,VAT,32d553a8-391d-424a-bf36-6d6d85f04432,Manufacturing,Province C,Town B,Medium
+246cd6a1-f0a9-43e7-8c1d-e6850cb600f0,2023-05-05,2979.86,Mobile Money,Sales Tax,8ed03b8c-312b-4ae3-b0b2-4e1286c3c0c2,Technology,Province C,City B,Medium
+9c4bf774-1d50-43f2-bf21-00efff00a828,2023-06-23,4544.6,Credit Card,Sales Tax,5d8c510c-a73c-41c3-b009-ca8a9b863954,Retail,Province E,City C,Medium
+24ecc0b7-0e2b-4efe-bcdb-bb3fd1548537,2024-04-27,889.47,Credit Card,Corporate Tax,9727699d-3edf-41b8-9470-c61bf79db93b,Construction,Province A,City C,Medium
+c6ef85dd-e7ba-4d0a-98fa-d7afb6bd9cf4,2022-12-11,7934.88,Bank Transfer,VAT,3bd1d7d0-6be1-4d5f-9f02-c60d39586e7c,Finance,Province E,City A,Low
+c2ceaddf-901a-4274-961c-d617b7ac785a,2023-01-10,4139.81,Debit Card,Income Tax,7f1a559f-a483-4111-8903-642744b428ec,Retail,Province E,City A,Medium
+5c8af3d9-be60-4272-a3a1-aa2af7878233,2023-09-07,8296.23,Debit Card,VAT,8827b218-e4c9-4fa6-ba56-31e73131b0c3,Manufacturing,Province E,City B,Low
+22d50f8d-0b91-4b62-bf74-cd640556b387,2023-06-09,2840.57,Credit Card,Income Tax,ce548a89-510d-4c55-83dd-9d2a59e30a97,Manufacturing,Province A,City B,Low
+a4768108-4e87-4c37-ab1e-244e4a2aa1cd,2024-03-15,5946.91,Debit Card,Property Tax,054fb05b-ba14-4767-8120-dd5f1290caa4,Construction,Province A,City A,High
+d0d7c267-59b4-4239-a353-a60cb24ae758,2022-10-29,9729.51,Mobile Money,Property Tax,c97586f6-dea2-4e09-a6be-2046605e23a7,Technology,Province E,Town A,Medium
+f39dc508-fa5d-4159-9b3c-bddb1c7050cf,2022-09-22,9614.01,Credit Card,Sales Tax,89103b01-d133-41d5-ae26-4a8b6fc19331,Retail,Province D,City A,Low
+14a2a890-4118-434b-9427-7ec18a0cd417,2023-11-09,1585.7,Debit Card,Corporate Tax,9a7fa3c1-2c96-4266-8280-79ddd9d2cc74,Construction,Province C,Town A,Low
+0e2ae885-1c9c-425d-9c93-2e78bc570865,2022-09-26,4205.36,Credit Card,VAT,dce1cb0f-f010-4473-852f-0c98d75fb01c,Technology,Province A,City A,Medium
+44a32a92-df8f-493c-90ae-9bfc06d1fd9b,2024-05-24,593.85,Debit Card,VAT,ba56b1ec-3728-41cd-b28b-1d50d65a34e7,Healthcare,Province E,Town B,High
+f80259bb-3a04-417f-a884-d1a886a554e8,2022-09-19,6425.67,Credit Card,Sales Tax,74be2315-79d9-47e6-aa53-e3eb5a3e47dc,Retail,Province B,City B,Medium
+dc0533f6-4179-4b01-81f6-fb9bd695c488,2023-01-27,3689.77,Bank Transfer,VAT,27f491d1-d4e7-4a4d-be69-6729a0878202,Construction,Province E,City C,Low
+f0acde7d-a6bf-4dfd-855d-ade32bb496b6,2023-07-13,7042.59,Credit Card,VAT,f3787131-ed8b-45e7-ac51-143683667e97,Manufacturing,Province B,Town A,Medium
+2a203cbf-5f2f-4e3c-b34d-6909de262bdf,2022-10-28,3213.44,Debit Card,Property Tax,fdf8f2c5-b1c8-478a-9e4b-bce2fbd08ec6,Technology,Province A,Town B,Medium
+e72dd121-4fad-4f78-8ada-cafedb062955,2023-11-26,940.64,Mobile Money,VAT,114ab653-61f9-4311-b21b-11ee7cd65eb5,Manufacturing,Province B,City A,Medium
+d921f7c1-e46d-4d22-94a0-7eeb75ee2d50,2022-09-15,2203.22,Debit Card,Property Tax,67e839ee-0652-4bd3-a7c7-c521ede10377,Finance,Province A,Town B,Low
+e51aaef6-1c25-4c72-a3cf-4fcc2253229f,2023-10-28,3050.12,Mobile Money,Property Tax,204defeb-9750-4f89-8ace-bf9da1dc966d,Construction,Province B,City C,Medium
+2df6923b-d662-4316-9e27-6a7023ed9fa6,2023-01-04,1783.79,Bank Transfer,Property Tax,63cbe2fe-0b93-4623-9818-4b137ee7c884,Construction,Province E,Town A,Low
+bf55e18a-1af0-4cba-8faa-07e883b4fcb1,2024-08-03,832.63,Debit Card,Income Tax,ea40df9f-171b-4429-8083-cc9c9727267d,Technology,Province A,City C,Low
+4077f8ed-8d27-472f-ba48-ad33f344d670,2024-06-21,5023.79,Bank Transfer,Property Tax,5d80fad8-c73c-49ed-a39d-79e0d5a45816,Technology,Province A,City A,Low
+b3488c79-e990-4477-9bc4-071aba32946e,2022-09-13,4297.23,Mobile Money,Income Tax,d9407799-5994-46f7-8649-773594f32ab7,Retail,Province C,Town A,Low
+091ddd4f-ac56-4a89-819d-5f5d03a8b0ae,2023-11-06,8675.38,Mobile Money,Property Tax,7442a7d7-a059-4c0e-901b-4d6aec176629,Construction,Province E,Town B,Medium
+ee031ec4-bb2c-46f1-b03c-f173dd664aa0,2023-05-24,4382.09,Credit Card,Sales Tax,388376c3-39d2-46bb-8523-df6af4827433,Manufacturing,Province E,City B,Medium
+809088e7-a421-4464-b823-687d698d8cbb,2023-12-01,1573.77,Debit Card,Corporate Tax,dbd379d7-f514-4bf7-ab49-0152a699eb2a,Construction,Province C,City A,Low
+4db2d3d7-0954-4717-9a32-7da03db1b990,2024-07-04,210.91,Debit Card,Income Tax,fc1898a4-2a15-4c5e-8cd8-d76e14946884,Finance,Province A,City B,High
+fba697d6-6b26-434c-94a2-87fd22618ee0,2023-09-27,4188.05,Bank Transfer,Corporate Tax,561b8566-0537-427b-8cf1-26a6a482a430,Retail,Province B,Town A,Medium
+373f72e7-c1bc-43c3-8285-a462054187b6,2023-11-03,9104.31,Mobile Money,Property Tax,28e594cf-d232-4a0b-aaa0-5fc72916ccf3,Manufacturing,Province B,Town B,High
+fcb2fe80-dfa1-43ea-bbb6-4677405fb78e,2023-09-28,9069.08,Bank Transfer,Corporate Tax,c02e2ad9-44a3-4cf8-8375-fae73969667c,Retail,Province D,Town A,High
+f5fc2bc4-9fa5-4162-be35-19d1b83fdb63,2023-11-16,4210.58,Credit Card,Property Tax,d5050b3c-9aa0-42a9-b198-236e925fd822,Finance,Province E,Town B,Medium
+e04455ad-1bc0-47f1-bfd6-c58ba5ab7433,2024-04-29,8229.01,Credit Card,Property Tax,8e765635-5e34-4ca3-bd9d-01c8904596f1,Construction,Province D,Town B,Low
+c6e649a1-f1bd-407e-ba82-7d217cd6d3e8,2022-11-24,1515.17,Bank Transfer,Sales Tax,12f7f675-0da6-4386-a89f-e59eab498d6b,Healthcare,Province A,Town A,Medium
+913d1531-b5b8-4f9f-a8ec-e62dd481e5ac,2023-10-23,8417.01,Mobile Money,Income Tax,cf17e32c-53c9-46b9-9173-5528212afa61,Healthcare,Province D,City A,High
+1bac3982-6c06-493c-b478-112594f7dfa8,2024-03-31,7665.91,Credit Card,Income Tax,d7a449ec-e1de-42c5-b123-6bfc317eb5a4,Construction,Province D,City B,Medium
+217d6710-69e9-4679-8f50-ba6d1162cb1e,2023-03-24,3449.1,Credit Card,Income Tax,0609f62a-2a7b-4b33-acd9-4370f297f9c1,Construction,Province D,Town A,High
+79962619-c0a2-452b-badd-d99c4ec2d76d,2024-05-10,2618.69,Credit Card,Sales Tax,67ebdab5-6fa0-4297-a415-0a37f33cf8f3,Technology,Province D,Town B,Medium
+b01ea06b-3dce-422c-bd5f-c7404f4d8006,2023-08-15,8904.84,Bank Transfer,Income Tax,7771a523-dd69-4878-838b-edbc53e37217,Technology,Province C,City A,High
+83104e36-3c74-4ef6-a2df-2f06d748c561,2022-12-24,8815.81,Credit Card,Income Tax,ef27b060-ab3a-4015-bb6e-7d726a0679e1,Manufacturing,Province E,City A,Low
+bcf6efea-656d-44eb-9d8c-0428c5eec455,2024-05-28,6409.56,Debit Card,VAT,85fa7ecc-3446-48da-aeb4-1736006e70d4,Construction,Province D,Town A,High
+ce86f3b9-4b43-45b0-ae5a-632fa67361bd,2022-11-28,8077.93,Debit Card,Sales Tax,199002bf-6542-4ccb-8fd6-246e5466176c,Manufacturing,Province D,Town B,Medium
+173f2e63-6dbb-4bf1-b67d-bdb5dfdf0efc,2023-05-10,6070.12,Credit Card,VAT,045eafc8-7da6-4f33-a090-55824f357f09,Healthcare,Province D,Town B,High
+a09734d8-dae7-43cc-a2b5-d7fd6081ec62,2023-07-04,3916.32,Bank Transfer,VAT,e43b1dbd-727a-48d3-9f01-cd85dfe3a503,Technology,Province C,Town A,High
+0f2f32a7-ae9e-422a-8099-d989adf58469,2024-06-02,106.52,Credit Card,Sales Tax,3c703ad6-91ce-4a35-b610-994728c639ba,Construction,Province A,City C,High
+bdbec283-8078-4e6b-b03b-3eb643f64269,2023-03-06,5355.07,Bank Transfer,Income Tax,7e386565-cb02-4b62-a8a8-035a254b1e52,Retail,Province C,City C,Low
+cbb58567-7eb9-4515-a73c-37c27b277c46,2023-09-03,9148.64,Bank Transfer,VAT,bba51caa-a320-4798-a333-6cc2d6955394,Technology,Province C,City C,High
+63807e72-105f-4b76-ab80-d930a0c26673,2024-05-04,8616.84,Mobile Money,Corporate Tax,6c53da8a-5dc8-4970-a892-9b03d24eb85f,Healthcare,Province E,City A,High
+a808faa6-de3b-4f32-8963-c973aaff50c2,2022-10-03,2309.52,Bank Transfer,Sales Tax,5038f693-aadc-4ebe-871c-d10ba7cf3cc2,Healthcare,Province E,City A,Low
+42e0a9b9-286d-4520-b0ad-7ad23d1ef6b0,2024-02-23,6973.71,Credit Card,Corporate Tax,32ca2986-7497-4044-a409-fb22b44ff875,Retail,Province C,Town B,Low
+01989f7b-d7b7-441b-ae40-ec30cdd0b827,2022-11-13,9981.46,Credit Card,Corporate Tax,575b6410-5561-497c-93c8-047a8c147e98,Retail,Province A,City C,Medium
+d86afcad-fc62-4077-be44-ae6a41633bc0,2023-12-22,8290.42,Debit Card,Income Tax,dda00ea3-d28d-4da9-a332-bf9a29599d6e,Manufacturing,Province E,City A,Low
+321df694-fa06-45ab-bef8-3b6ba6a0ec5a,2024-06-26,4659.35,Mobile Money,VAT,e0ffd6c8-65d5-4166-b3e5-73da909b1989,Healthcare,Province A,City A,High
+ccdc6f13-3860-4f15-a7c1-e1fad6da3ebf,2022-11-29,5865.59,Credit Card,Income Tax,dd44438b-2e35-47c6-ba70-fc8c1e7ec933,Manufacturing,Province C,City C,Low
+40cb6072-ad77-4a43-8b07-211c46bb71ff,2023-12-08,2235.96,Credit Card,Corporate Tax,22fb1775-9991-4aae-a0d4-a6c7cc09c8fa,Retail,Province D,City A,High
+c16f7985-9fb1-4db2-a055-37af97016e46,2024-01-07,4619.15,Bank Transfer,Corporate Tax,2bb40db3-260f-4902-92cf-a29df9b0a92d,Construction,Province D,City A,High
+e04a140c-6aca-4db6-826d-7051f3ffcc5c,2022-09-21,6709.53,Debit Card,Corporate Tax,6298b0c7-3e99-4491-97ed-09beee520fae,Construction,Province A,Town A,High
+f71d334c-31ff-49f3-bf7f-375f363b21d9,2023-10-09,8620.85,Debit Card,Income Tax,0c795b17-7da2-41de-b7ca-a3222eb392c4,Retail,Province B,City B,High
+9f35e35d-ce84-4fb2-87e6-62f8c95841a3,2023-05-01,1826.84,Mobile Money,Corporate Tax,85131c6a-826d-4143-973f-acd9601a9067,Finance,Province D,City B,Medium
+2138f9d0-4ed5-45bc-927b-f986e08488e9,2023-04-07,3425.48,Debit Card,VAT,3c86bbe6-841e-4ec6-a245-a95cb61bde02,Construction,Province A,City A,Low
+71761805-c57c-4e9c-beac-4d8be35b272a,2022-10-28,5603.27,Credit Card,VAT,ac1bdffd-e760-403e-ab41-9e03780dba6e,Retail,Province B,City A,High
+4ccf9b11-6db7-440c-bfab-63d6be190c2b,2024-05-28,803.89,Credit Card,Income Tax,312947ce-7ab5-4d2d-9da7-da0b2bf4d4a0,Technology,Province D,City A,Medium
+5e573ab5-efd3-48d4-a804-7fb99e21ae13,2024-07-09,4705.49,Mobile Money,Sales Tax,a2ec3909-daea-42dc-b83b-3b0211eb3479,Finance,Province D,Town B,Low
+e57c1280-7407-4172-91dd-49c5f6b56eba,2024-04-30,3798.57,Bank Transfer,Income Tax,515d6d12-7eb9-4104-ab9f-e1d2f95ef138,Finance,Province D,City A,High
+af8b7475-ec63-45e7-a5f0-87c99cb49e71,2023-08-04,1406.24,Bank Transfer,Sales Tax,ca0a715f-8473-4b16-adf0-ec4c7e390035,Retail,Province D,Town A,High
+57121864-4856-424a-bdd4-120b02744ef1,2024-01-27,8004.81,Credit Card,VAT,beb6c9d6-4c8c-4dc6-9235-8b669e249efd,Finance,Province E,City C,Medium
+124fca43-5a8a-490f-b907-7ddebd39df85,2024-02-11,5414.73,Credit Card,Sales Tax,ffbed613-6a4e-4e85-b68e-a1a4d7a45682,Construction,Province D,City B,High
+3aed9c79-e2ab-4def-8fc7-c84e2cca646d,2023-10-08,7847.75,Mobile Money,Corporate Tax,929aa2be-cc9e-4843-858d-1a7227a5bc35,Manufacturing,Province E,City A,Low
+c859ba0b-f093-4b96-adf6-4ea9b7bc2bc8,2024-07-24,3471.18,Mobile Money,Income Tax,1a8453a2-7147-42b3-be81-77130709f0ff,Construction,Province B,Town B,Medium
+7279fede-fe24-4795-98c5-562c348096ea,2023-12-06,8752.11,Debit Card,Property Tax,04a86f70-732d-431c-a94a-15464ccd4f07,Technology,Province C,Town A,High
+3e3b6501-62fa-49d5-9d3d-83888077f36a,2023-05-20,1919.78,Debit Card,Income Tax,471297d8-0caa-4215-88d0-0339fdc657d7,Technology,Province E,Town B,Low
+615ba262-7d39-4fb0-bcf2-97f7d96599ca,2023-01-27,4552.61,Mobile Money,Corporate Tax,08bb7b1d-9f18-4846-b0cc-6a416af9f168,Healthcare,Province D,City B,Low
+9a560f0e-a243-457b-8ab4-9d2ff8187561,2024-04-08,630.75,Debit Card,VAT,211b63d6-4fbc-4592-b85e-a37d234e30f9,Manufacturing,Province C,Town B,High
+80ff0f35-cf8a-4770-9a6a-9c6616b9a2a8,2023-08-28,7332.18,Mobile Money,Property Tax,cdd7a610-90cb-4ca6-8f18-694de797cf22,Construction,Province A,Town A,Low
+41f4a1fb-2148-4d97-ac01-ce5fdb257f3d,2023-02-27,3039.41,Debit Card,Property Tax,4baf568b-dc70-4b76-9ba2-80b74c8ab793,Construction,Province B,Town B,Low
+0846e932-9afb-445d-b0e1-1f3ef1bd74b2,2024-02-08,5163.98,Bank Transfer,Corporate Tax,0f6c0671-978e-49a9-80f5-de0ef6e24f04,Healthcare,Province C,City A,High
+0e7978f2-6df8-40ce-b1d1-f5a1282886e6,2023-07-30,1599.52,Debit Card,VAT,96152142-c26a-43bd-b2a6-98da3ae60dcf,Technology,Province C,City B,High
+6d066a8b-0937-41b2-8f08-c01540d0e9d3,2023-08-14,1323.12,Mobile Money,VAT,77b84221-dba1-4812-8cf1-b76ebb927988,Retail,Province C,City C,High
+9862576b-dd1b-4462-a1fc-c6b5e8247e9e,2024-01-07,9438.18,Debit Card,Property Tax,85a620c0-fd5d-4bcb-9eb5-a100e2e55288,Manufacturing,Province A,City B,High
+dbb8bd2c-6215-4ed7-8102-85f5edd8c4af,2024-08-31,2899.99,Debit Card,Income Tax,56d46b19-4c7d-418c-9d4e-8555742979da,Manufacturing,Province D,City C,High
+26475788-4e7f-4a18-8158-5f37b7cb28c8,2023-08-26,5877.93,Bank Transfer,VAT,bd8f0970-fd88-48b7-975e-9df69ebf722f,Technology,Province C,City A,Low
+b26d4ac2-4ada-459a-95f0-02bd5e28124a,2023-03-21,9828.73,Bank Transfer,VAT,669bd424-1512-46c2-9774-08d710d8e677,Finance,Province D,City A,High
+240af393-1f2a-4535-b7f4-f967a85d9ddf,2023-05-18,4835.81,Bank Transfer,Income Tax,b4a4c54b-1c8f-4c72-ade2-ce266fc32d27,Technology,Province D,Town B,High
+b9eb3dd2-2f9a-45c1-8bf7-a032a18534f7,2022-11-22,4481.23,Mobile Money,Property Tax,c0bcd4e1-15d3-46d8-8a58-0a6e90c3acd6,Finance,Province A,Town B,Medium
+a7feab5d-00c8-4b83-b0a2-9af39db760ae,2023-05-24,4063.2,Debit Card,Corporate Tax,05d9b180-b1bc-4ee9-b379-304b0ca8afa4,Manufacturing,Province C,City A,Low
+a0a6a478-d543-4b02-8299-f937a5c55354,2023-07-15,3881.79,Debit Card,Property Tax,2bc2b90b-3d34-4f2b-a88e-37f64cd282b1,Healthcare,Province B,City A,High
+9f63444c-6e94-4059-9fc6-7878b527b378,2023-04-03,3219.54,Credit Card,VAT,eea02168-b3af-48b7-aae4-d7191fc365f8,Finance,Province E,City C,High
+a65b7a32-4a0e-4167-8d94-2296d10e4f12,2024-01-03,7860.46,Mobile Money,Corporate Tax,4b8cb6c6-da7e-4a39-8c11-2c268810f123,Manufacturing,Province E,City A,Low
+8c894dc0-e481-45ef-a397-adad1180755e,2022-11-16,2577.08,Bank Transfer,Corporate Tax,98935772-04b7-4f3f-87da-f98e497a220e,Manufacturing,Province B,City C,Medium
+c47382c0-5d20-433a-888e-a48aba9ee90c,2023-08-18,572.68,Credit Card,Income Tax,7925d845-7cd8-4ba5-873a-4dbf343e7d49,Healthcare,Province D,City B,Medium
+6604fe78-25e7-4084-8f69-6f37ec70d6a6,2022-12-31,5116.5,Bank Transfer,Income Tax,d0c5f993-a479-4fc2-b0ea-7610a8b66ef7,Finance,Province C,City A,Medium
+14a047b4-e46d-4137-be82-03b21d069c2a,2023-07-08,5054.59,Bank Transfer,Corporate Tax,ec8855e8-27ed-4c24-8db4-7c0cb7575744,Manufacturing,Province A,City B,High
+ccd89baf-3271-4cea-93df-eed4b77da1d2,2024-04-02,803.05,Mobile Money,Corporate Tax,6391c66d-4cac-49ba-a267-d29fe9cec204,Manufacturing,Province D,City B,High
+bbb8b391-9360-4cc2-b8bb-1e5d9367ebe3,2023-06-06,8692.37,Bank Transfer,Sales Tax,4ca50168-9506-4eb7-8908-fb809bf7e87b,Manufacturing,Province C,City C,Low
+a9ac01d5-a8ba-47e7-a736-44f04389275d,2023-08-28,6038.61,Debit Card,VAT,0a6e7c77-18e7-4faa-9123-e3347af6b16d,Technology,Province B,City B,Low
+72a83985-48fb-43b6-98ab-3b4367603c2a,2022-10-03,9053.0,Bank Transfer,Corporate Tax,3c6c040e-b2bf-4699-b708-24ab90e15bb8,Technology,Province E,City A,High
+dbf7c2ab-8c20-43f3-800f-37c0fff0edf4,2023-07-12,642.75,Bank Transfer,Corporate Tax,0c0f9b69-63bf-4c94-90b3-51147fb40e00,Healthcare,Province E,City B,Medium
+1e909179-c3bf-4b43-9c67-2a002d9b1e93,2023-08-15,3790.84,Debit Card,Property Tax,f75cb584-5008-4033-b872-2dc15526eb13,Retail,Province B,City A,High
+c0f8b81f-7ec1-4d29-b919-a777034d3c5d,2023-02-24,6002.86,Credit Card,Sales Tax,2fa266d1-21da-4d7b-8922-705dab2e9e53,Construction,Province B,Town B,Medium
+cb4e3b13-f495-4650-b9e2-a3d066ff23ee,2024-02-20,8466.09,Mobile Money,Corporate Tax,e54b96e4-596d-4002-952f-6aef94132911,Healthcare,Province A,City A,High
+b4e4dceb-e22f-43d3-98b8-fc6072de936b,2022-10-20,4076.94,Mobile Money,Sales Tax,fb2a17f0-94b3-4d5d-ba63-293a0fff93b0,Construction,Province A,City A,Medium
+da39979b-9834-4a5e-a337-d78bba13c0b0,2024-06-28,6207.14,Bank Transfer,Corporate Tax,965850bb-e9d4-4add-a15e-833e7f6ee4fd,Technology,Province C,City C,High
+77e00c67-5929-4e2d-b3e9-7b1379f9cf8d,2023-07-17,1487.54,Credit Card,Sales Tax,50ebe9df-14dc-448e-b166-29d1d497628e,Technology,Province A,City B,Medium
+3714e637-b42d-4a17-a06e-4bdbc052578a,2023-08-28,9129.74,Credit Card,Corporate Tax,be1110cc-1056-46d7-94aa-1dc7b18a68fb,Technology,Province D,City B,High
+01035ce2-fb2d-4e86-934a-cd71d24ef03b,2022-10-13,7305.77,Debit Card,Property Tax,d3c87264-588a-4161-962e-8e26998b7a4f,Manufacturing,Province E,City C,High
+12417079-3465-40bf-b39e-6468f9acb3ba,2024-04-18,5811.58,Mobile Money,Property Tax,5775d923-6180-4043-b7c4-052dcd66b6e7,Technology,Province B,Town B,High
+7bf6ae34-0726-4f5c-bfec-9b8f2b1bfb8e,2023-10-31,8656.8,Debit Card,Sales Tax,0afb6ecb-2f9e-44bf-aa97-f9e194368e1a,Manufacturing,Province E,City C,High
+e65b4b2a-2682-42ea-90a7-a048c90ed1a2,2023-02-09,2920.05,Bank Transfer,Sales Tax,f8347c42-8a66-4a28-94de-fffe284658d3,Construction,Province B,City B,High
+8f32047f-a9d9-4c31-b9c3-67c2657073b2,2023-01-26,4071.26,Bank Transfer,Income Tax,35b4f171-6b53-4eef-9b6c-6a5e612c5e3e,Retail,Province B,Town A,Low
+4e8ddae9-69b6-4182-b62d-3f1baf5d10a6,2023-04-17,3713.09,Debit Card,Property Tax,3c385b98-e11d-4bbe-b403-4e4afc0272d3,Manufacturing,Province E,Town B,High
+e0b43273-e52f-4623-8256-6aacabfdc310,2023-09-04,618.74,Credit Card,Corporate Tax,ae904d6f-d74c-4b42-9342-1711108820fb,Healthcare,Province C,City B,Low
+9cb8e004-e6ce-4bb5-8aee-b956c768ab2d,2023-02-18,8350.62,Mobile Money,Property Tax,3447fbe2-98fb-4733-88e8-3f61e2e7b7f3,Finance,Province A,City C,Low
+7b75fb4e-494a-4c5b-8efd-060f4c98e347,2023-01-18,828.04,Credit Card,Corporate Tax,b2870e9e-2e9d-47e3-9abb-21eb7ebe0cb7,Finance,Province A,City A,High
+41977d1c-f3e4-417e-8100-012067592f79,2024-02-13,2609.55,Mobile Money,Income Tax,fdff6b08-09ee-4ca0-8832-78fd13e32bc1,Manufacturing,Province A,Town B,Medium
+a27cb31b-3922-47d2-a7a0-865628cd772f,2024-02-03,6911.74,Credit Card,Corporate Tax,7b299aa5-0559-4176-bdfb-d2c9aade5650,Healthcare,Province A,Town B,High
+84f246cd-c0dc-400e-98f5-cdc1cc4f4598,2023-05-03,5593.28,Mobile Money,VAT,c06c4a6f-b2e3-4873-86fe-dee2aa4e0caf,Construction,Province C,City B,Medium
+655e53fb-3aa8-4001-b85d-55dd33f903f4,2024-01-19,6929.4,Debit Card,VAT,6609a912-a022-40e8-9f70-8157f8fda6aa,Technology,Province D,Town A,Low
+5ee303d5-a475-4260-a3b1-fcfd82ef1b46,2024-07-22,5803.07,Debit Card,VAT,a9a594f6-2131-400e-9cd6-736d1fc81269,Healthcare,Province E,Town B,Low
+f7bddc7c-f374-4aba-a505-7947a35e022c,2024-05-12,8808.66,Bank Transfer,Corporate Tax,4c79e23b-83c1-4fc2-9bcb-196451125c03,Finance,Province D,City B,High
+ca41d597-91bf-4960-a6a1-35c7aba4dc88,2024-05-27,8612.44,Bank Transfer,VAT,87abe11a-6a98-4ac8-9a2a-a11eac180349,Healthcare,Province E,City A,Low
+7319b5d5-34ee-436c-8099-f4a03ef655d4,2024-09-01,2687.67,Bank Transfer,Corporate Tax,5092277e-538b-4cc7-a59d-48cc127c45b7,Healthcare,Province E,Town A,High
+0b489be0-b449-428d-9c36-3f66f9e7fe5c,2023-05-09,9330.15,Credit Card,Corporate Tax,8117fe85-9880-4e98-9293-2f516e0e4476,Manufacturing,Province D,City A,Medium
+a7cad54c-f146-408e-9c09-de72ab67023e,2023-06-11,8640.13,Debit Card,VAT,aacef06f-382a-4332-90b5-5a36d5a32522,Finance,Province C,City A,Medium
+24a366d8-a9d8-4b01-b06b-c43a7a1ac7f4,2022-11-18,4978.38,Debit Card,Sales Tax,98459c39-d398-4816-8d8d-394b3ad49a09,Manufacturing,Province E,City C,Medium
+13528b87-52fa-4cf0-af34-07880541a82a,2024-06-07,894.98,Credit Card,Property Tax,e2fa28c8-dd80-48c4-9902-1d8bc3a7f0cf,Construction,Province B,City B,Medium
+0ac58a66-67e3-4c7d-8988-3d5b39f38412,2023-01-29,5628.32,Mobile Money,Sales Tax,64cd9d32-ce78-4c67-a885-e8451d67177b,Retail,Province A,Town A,High
+0e4fad0c-d959-4ad6-9f81-80dda5e0a3a9,2023-05-16,4978.04,Bank Transfer,VAT,55751cf8-c270-412e-938a-59e55f06831b,Technology,Province E,City C,High
+ab20a1ae-56dd-4097-b58a-9551bc56ebcb,2023-02-22,3134.12,Bank Transfer,Corporate Tax,000123e7-1444-4475-a378-2337de65701a,Manufacturing,Province E,Town A,High
+f16bc340-0b24-424d-abd9-d7e4cc2673c1,2023-10-20,5441.78,Debit Card,Property Tax,d9d42f14-42a0-4aac-b63e-1df938d355a4,Manufacturing,Province A,City B,Low
+638ddbcb-4786-4f63-9000-e9b81d9c1f98,2024-06-15,7743.71,Credit Card,Corporate Tax,4b5b9328-b65a-4601-94f8-4af3ce71dc05,Retail,Province D,City C,High
+c6e0f08f-a7f7-4e82-a871-e19af5e5a379,2024-06-21,5366.79,Debit Card,VAT,9a370a6c-5d21-4b1d-afd0-f532a55facd9,Manufacturing,Province E,Town A,High
+928f74a6-9a2a-4627-81a2-7ab554b48c97,2022-11-15,5206.94,Mobile Money,Corporate Tax,db9c6de6-39a4-43d7-ada2-6bf95f247c53,Technology,Province E,City B,Medium
+b553d631-a05a-4e8e-a711-dd35fa7b4be9,2023-09-02,2554.93,Credit Card,Property Tax,b85c6e0d-e5c8-446e-ad26-f9515fc2744e,Technology,Province B,City B,High
+677420d8-0b3d-41c2-9487-3dd5eddea5df,2022-12-19,5286.13,Credit Card,Property Tax,e7e3696d-c39f-41e7-877f-a57b9a99752c,Finance,Province A,City C,Low
+f58da85c-d0eb-4345-acf0-4b72bb9deccd,2023-01-19,1030.23,Debit Card,Property Tax,852bc8b4-2ac0-4418-a327-ff9e6c5b74b6,Construction,Province D,Town B,Medium
+ad607740-1e9c-4d97-8846-aa88fed914ea,2023-12-06,1018.24,Mobile Money,VAT,cb1238fb-d0e5-4a22-8f96-3847c3b9a68c,Healthcare,Province B,City B,Low
+5ec875be-6a33-46d0-b2a4-da7d9b793f69,2023-11-19,7252.32,Bank Transfer,Corporate Tax,c4095b55-0ca4-4d98-b9d7-13de85e89cf7,Finance,Province E,Town A,Medium
+007931a9-e68a-43d3-b311-95ddbceb01ad,2024-04-29,1818.92,Credit Card,Income Tax,5a2e8ec6-e468-48ba-ac29-0a19bb4b8bd6,Technology,Province D,Town B,High
+4493342d-f9eb-4c92-b6e8-b2cb0a876380,2024-02-21,7776.25,Bank Transfer,Corporate Tax,77547046-96c1-4803-8f09-e8d1c2e80758,Manufacturing,Province E,City A,Low
+a50de688-1312-427b-9221-f484617b1061,2023-05-25,6227.96,Debit Card,Corporate Tax,7edc3a16-39af-4b4a-b4d5-e4890a5bbcab,Construction,Province B,City A,Medium
+458bba28-5cfc-4d11-bdd5-381325755f73,2024-08-26,9666.72,Mobile Money,Corporate Tax,f840ae8d-a9e3-4eb4-b5fb-f254aef4d36b,Retail,Province B,City A,Low
+d186999e-6af1-42f7-852b-374d0f78374c,2023-05-31,4140.98,Debit Card,Income Tax,181c0bbb-d530-43ec-af0d-2ff832f89993,Finance,Province C,City B,Low
+a437469c-93da-423c-8334-025e1d09ce6a,2023-12-21,1920.63,Mobile Money,Sales Tax,f583053b-60a9-4d7d-9629-09a7fd5775ed,Technology,Province C,City A,Medium
+e3378620-12ac-4476-ac18-4c63fe633428,2023-09-06,3732.07,Credit Card,Sales Tax,67b138cf-cfa9-400b-b676-414cb6f43b72,Retail,Province C,Town B,Low
+91a344ff-950a-4669-870f-94813b86abe3,2024-04-27,8844.33,Credit Card,VAT,b0a05850-b693-4b7b-ab68-377f022031d3,Finance,Province D,Town A,Low
+b9dc4e60-b501-4683-8fac-8c6d095e086c,2023-05-11,4946.64,Mobile Money,Corporate Tax,345154ec-184c-4c8b-b1e6-f032f2b259ba,Healthcare,Province C,Town A,High
+a040fc44-b836-4203-85a1-370185e8bafc,2023-12-18,1177.89,Debit Card,Income Tax,ef15cbcd-248d-4536-b570-bf02a770b749,Healthcare,Province C,City A,Medium
+c43568ef-fc4c-4d58-b278-c5d5f1b08fba,2023-06-10,1517.46,Bank Transfer,Sales Tax,602ee95e-44f0-4b60-9bc6-3775dec7743e,Manufacturing,Province C,City B,High
+800d178a-a01e-46ef-ae3c-eaff8851d7b8,2023-03-04,7078.69,Bank Transfer,VAT,52681672-b30d-45b5-9cc7-6190cf0928b3,Retail,Province E,City A,High
+ece0fa7e-5478-4edd-8af3-83c09b4e393c,2023-03-14,637.84,Debit Card,VAT,55cb1013-4625-48b6-8734-97f24b2895ae,Healthcare,Province C,City C,Medium
+27f3891a-69bc-46e8-8d41-a48f7004a125,2023-09-24,8048.59,Mobile Money,Corporate Tax,b27a43f0-459f-4f40-ba16-6d2b17a61ada,Manufacturing,Province D,City C,Medium
+c7f9aa7c-c856-4e09-94f3-0ad91ef77e05,2024-04-04,8711.47,Debit Card,VAT,bd73d3b3-7e95-4119-9e31-9a09581207c0,Retail,Province E,City C,High
+338c8a03-a1fb-414e-91c8-b61c70cf0479,2024-02-01,8950.2,Debit Card,Property Tax,9638f6b1-a7e8-434c-813d-4e311646612d,Technology,Province C,City C,Low
+4a939e2e-89bb-4d0b-a322-c80e8ccc14f9,2023-06-02,3600.88,Debit Card,Property Tax,573e8033-aa40-4a0a-9b47-cbb021f742b9,Manufacturing,Province E,City B,Low
+3d77514c-6759-44e8-b9aa-761080190ff9,2022-11-21,9346.18,Credit Card,Property Tax,9f3b49b0-960e-44f9-af81-36e3b86f3ceb,Finance,Province A,Town B,Low
+68048179-2fbc-426b-977e-77797ee8a459,2023-05-14,774.28,Bank Transfer,Corporate Tax,70a22dc0-58b8-4839-af04-ff4873c9d1d1,Retail,Province E,Town A,Low
+6fab8c8c-411a-4dc5-803e-6506b54b0c67,2023-03-17,3149.27,Debit Card,Property Tax,f4d9ff3d-0cf9-42fc-9987-a36f8227d533,Manufacturing,Province D,City B,Medium
+7f85e9fe-2110-4797-ac01-351e2bc49954,2022-12-21,9536.69,Mobile Money,Sales Tax,59248a91-5491-46a6-bb33-d5bf0b15555a,Healthcare,Province C,Town A,High
+b4735351-bd19-4afa-85cb-6a7ddd54d762,2022-10-01,6426.72,Mobile Money,Income Tax,5df8581a-2482-48d2-a90c-5b1fea80ee7b,Manufacturing,Province E,City B,Low
+d3a48d19-0612-4498-970a-ba43af3c38c9,2024-04-21,9986.31,Bank Transfer,Sales Tax,b82e5f32-d8f4-4408-892c-e641f94d343a,Retail,Province C,City A,High
+eb5b5f59-d0c9-48ae-a252-d41f0a77b72d,2023-01-20,2169.04,Debit Card,Corporate Tax,049220e0-3561-4cca-91aa-237dec668395,Healthcare,Province C,Town B,Medium
+896efc7d-20eb-4915-bd08-077220c3c1ce,2023-03-19,6491.2,Debit Card,Sales Tax,e50890a8-5628-4484-9bbd-e3620c6e3d3f,Technology,Province A,City C,Low
+6cefa2af-dafd-4998-a84c-db59c1e93486,2023-05-15,7194.48,Bank Transfer,Corporate Tax,444d407b-968d-4cc6-a524-3befcb506c74,Manufacturing,Province B,Town B,Medium
+f6b06130-2493-43db-8687-6ff333b53164,2023-05-12,6934.42,Credit Card,Corporate Tax,6594027f-3bcc-47af-9538-7de49745bed5,Manufacturing,Province E,Town A,Medium
+05dc41bf-6dbc-4da4-a098-0bcc7ec2a13c,2023-09-20,8345.33,Debit Card,Corporate Tax,1df2f312-d7c5-4f38-9b96-2438728ad29e,Construction,Province E,City A,High
+f6b11677-149a-4829-b88b-97ce2d11abe6,2023-11-11,112.96,Debit Card,VAT,ba678207-f339-4a84-ae25-8a1c2bf992e8,Technology,Province C,City B,High
+8377820c-8442-4207-9228-43adda99e396,2023-03-31,8676.77,Credit Card,Sales Tax,887f111f-e9b2-4d46-91fb-28b4dd9fc725,Construction,Province E,City C,Low
+5c0b28d1-83e7-4a2f-88b3-7bdc2a5e6da5,2023-03-16,3402.9,Mobile Money,Income Tax,8ffe9c74-6945-45ba-9bd4-954eaa540de8,Retail,Province B,Town A,Low
+e726f8bd-3e6d-4004-ba97-ee886efd5fc5,2023-02-24,9395.2,Bank Transfer,Property Tax,a84ca6e0-16cc-4e0e-98c0-ce2db149d03c,Retail,Province D,City A,Low
+ba3cd1cd-e721-406f-913e-08a38dd6e5f1,2023-03-24,5466.99,Debit Card,Sales Tax,1b5fbd5c-b097-49f8-b9e1-e4721aef0a4b,Retail,Province C,City C,High
+4eb788ed-13d8-4199-9ca1-56794e81488b,2023-10-12,8046.51,Debit Card,VAT,8a6e1a13-bc69-4654-9524-e9568730a467,Construction,Province D,Town B,Medium
+b04fb97e-183c-4247-a646-ea0b11bba915,2023-11-16,9516.75,Mobile Money,Income Tax,30d9aa71-ff6b-447d-abad-11609b7bda8f,Healthcare,Province A,City B,Medium
+6f816dcf-4388-4bd0-8263-075d5a27f4bf,2023-04-07,7237.26,Debit Card,Income Tax,99819d61-c36d-406a-8c05-1b645eae8c5b,Retail,Province A,Town B,Medium
+362cbb51-e175-4064-a324-bd969a26e734,2024-07-30,6593.76,Bank Transfer,Property Tax,282fcf02-0a8c-4d1e-b8d5-debccf0af16c,Construction,Province B,City B,High
+a2d3b1af-f2ff-4001-8825-996fffe5d0d8,2024-03-30,1819.06,Mobile Money,Property Tax,71feb1ba-0e4f-441a-ac96-c1cb876a4a99,Retail,Province E,City A,Medium
+2580c1a2-a858-4bfc-a2c2-082c6a482dc5,2023-06-17,9053.32,Credit Card,VAT,776d5b05-b9fa-4e6a-b0c0-f17bdf549844,Technology,Province C,Town A,High
+c4eb5ef8-22de-40f5-9fc7-f078a38b7e63,2023-08-27,6494.38,Credit Card,Sales Tax,a7370c9c-2051-4306-89bc-aff2cfe75f19,Technology,Province A,Town B,Low
+9e53f61b-5e86-4188-9b7d-165223570d8f,2023-09-18,2411.47,Bank Transfer,Income Tax,8b1fc549-1e92-4355-ad40-cbf3c5c362ce,Finance,Province D,Town A,Medium
+3c8eff89-af10-45cd-88bd-13979c7160d7,2024-05-17,7977.18,Bank Transfer,Sales Tax,b1d86308-f4da-4010-929e-10e38e9fce03,Technology,Province C,Town B,High
+38fd95c8-96eb-4279-a598-9509a4b4abe5,2023-10-14,3173.98,Debit Card,Corporate Tax,cd037e9b-fdae-4d19-941f-8ced650f0d9f,Finance,Province B,City B,Medium
+d32884a7-7ba5-4aa7-bd8a-4972501bff5e,2023-12-20,4603.66,Credit Card,VAT,c7c232e8-3564-4a88-85b9-52c3ff5065d2,Retail,Province C,City B,Medium
+93d2d0d2-c192-4fea-a47c-92ce3fb0bbe0,2023-05-24,875.95,Debit Card,Property Tax,dbd89d6b-793b-45e7-84d4-a3909ffc9fc9,Construction,Province C,Town A,High
+6ac02653-fa81-4e70-a489-678c6d9ecf1c,2023-10-20,9642.27,Bank Transfer,Corporate Tax,ea1e31a4-47b0-49c3-a403-3e0200ed7931,Healthcare,Province D,City C,High
+7fc19836-036e-452a-aa44-7bc1e6252230,2022-12-04,8396.53,Debit Card,VAT,5782743a-cab1-4607-a82e-c04ca914d92d,Construction,Province C,City C,Low

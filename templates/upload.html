@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}Upload{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/upload.css') }}">
+{% endblock %}
+
+{% block content %}
+    <div class="main-content">
+        <div id="upload-section" class="section">
+            <div class="wrapper">
+                <div class="container">
+                    <h1>Upload Dataset</h1>
+                    <div class="upload-container">
+                        <div class="border-container">
+                            <div class="icons fa-4x">
+                                <i class="fas fa-file-image" data-fa-transform="shrink-3 down-2 left-6 rotate--45"></i>
+                                <i class="fas fa-file-alt" data-fa-transform="shrink-2 up-4"></i>
+                                <i class="fas fa-file-pdf" data-fa-transform="shrink-3 down-2 right-6 rotate-45"></i>
+                            </div>
+                            <form id="uploadForm" action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data">
+                                <p>Upload your files here</p>
+                                <input type="file" id="file-upload" name="fileUpload" required>
+                                <p id="error-message" style="color: red;"></p>
+                                <div id="data-preview"></div>
+                                
+                                <fieldset>
+                                    <legend>Optional Settings</legend>
+                                    <fieldset>
+                                        <legend>Formatting</legend>
+                                        <label for="delimiter">Delimiter (for CSV files):</label>
+                                        <select id="delimiter" name="delimiter">
+                                            <option value=",">Comma ( , )</option>
+                                            <option value=";">Semicolon ( ; )</option>
+                                            <option value="\t">Tab</option>
+                                        </select>
+                                        <label for="dateFormat">Date Format:</label>
+                                        <select id="dateFormat" name="dateFormat">
+                                            <option value="">YYYY-MM-DD (default)</option>
+                                            <option value="MM-DD-YYYY">MM-DD-YYYY</option>
+                                        </select>
+                                    </fieldset>
+                                </fieldset>
+                                <button type="submit">Upload</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+
+{% block upload_js %}
+<script src="{{ url_for('static', filename='js/upload.js') }}"></script>
+{% endblock %}
+

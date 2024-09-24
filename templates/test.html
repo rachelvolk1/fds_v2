@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %}Test{% endblock %}
+
+{% block content %}
+<div id="test-section" class="section" style="display: none;">
+    <div class="container">
+        <h1>Data Selection and Testing</h1>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" data-bs-toggle="tab" href="#dataSelection">Data Selection</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#individualSelection">Individual Data Selection</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="dataSelection">
+                <fieldset>
+                    <legend>Data Preview</legend>
+                    <table id="dataTable" class="table table-striped table-bordered" data-source="your-data-source"></table>
+                </fieldset>
+                <fieldset>
+                    <legend>Feature Selection (Max 5)</legend>
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="feature_1" id="feature_1">
+                        <label class="form-check-label" for="feature_1">
+                            Feature 1
+                            <span class="tooltip">
+                                <span class="tooltiptext">Tooltip description for feature 1</span>
+                            </span>
+                        </label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="feature_2" id="feature_2">
+                        <label class="form-check-label" for="feature_2">
+                            Feature 2
+                            <span class="tooltip">
+                                <span class="tooltiptext">Tooltip description for feature 2</span>
+                            </span>
+                        </label>
+                    </div>
+                    <p class="text-muted">Select up to 5 features for the analysis.</p>
+                </fieldset>
+            </div>
+            <div class="tab-pane fade" id="individualSelection">
+                <fieldset>
+                    <legend>Individual Data Entry</legend>
+                    <form id="individualDataForm">
+                        <div class="form-group">
+                            <label for="individualFeature_1">Feature 1:</label>
+                            <input type="text" class="form-control" id="individualFeature_1" name="individualFeature_1">
+                        </div>
+                        <div class="form-group">
+                            <label for="individualFeature_2">Feature 2:</label>
+                            <input type="text" class="form-control" id="individualFeature_2" name="individualFeature_2">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit Data</button>
+                    </form>
+                </fieldset>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block upload_js %}
+<script src="{{ url_for('static', filename='js/upload.js') }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+      // Select the tab links and content containers
+      const tabLinks = document.querySelectorAll('.nav-link');
+      const tabContents = document.querySelectorAll('.tab-pane');
+  
+      // Add click event listeners to each tab link
+      tabLinks.forEach(tabLink => {
+          tabLink.addEventListener('click', function(event) {
+              event.preventDefault();
+  
+              // Remove the 'active' class from all tab links and contents
+              tabLinks.forEach(link => link.classList.remove('active'));
+              tabContents.forEach(content => content.classList.remove('show', 'active'));
+  
+              // Add the 'active' class to the clicked tab link and corresponding content
+              tabLink.classList.add('active');
+              const targetTab = document.querySelector(tabLink.getAttribute('href'));
+              targetTab.classList.add('show', 'active');
+          });
+      });
+  });
+</script>
+{% endblock %}

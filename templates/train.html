@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}Train{% endblock %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/train.css') }}">
+
+{% block content %}
+<div id="train-section" class="section" style="display: none;">
+    <h2>Train Your Model</h2>
+    <div class="data-preview">
+        <h3>Data Preview</h3>
+        <p>Here's a sample of your uploaded data:</p>
+        <div id="data-preview-content"></div>
+        <!-- Hidden input to store the filename -->
+        <input type="hidden" name="filename" value="{{ filename }}">
+    </div>
+
+    <div class="training-config">
+        <h3>Training Configuration</h3>
+        <form id="training-form">
+            <label for="model-type">Model Type:</label>
+            <select name="model-type" id="model-type">
+                <option value="decision_tree">Decision Tree</option>
+                <option value="random_forest">Random Forest</option>
+                <option value="svm">SVM</option>
+            </select>
+
+            <button type="button" id="start-training" disabled>Start Training</button>
+        </form>
+    </div>
+
+    <div id="training-status">
+        <p id="training-message"></p>
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block upload_js %}
+<script src="{{ url_for('static', filename='js/upload.js') }}"></script>
+{% endblock %}

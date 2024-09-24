@@ -1,0 +1,253 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f0f0f0;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  overflow-x: hidden; /* Prevent horizontal overflow */
+}
+
+
+/* Section Styles */
+.section {
+  display: none; /* Hide all sections by default */
+}
+
+.section.active {
+  display: block; /* Show active section */
+}
+
+/* Global Styles */
+.wrapper {
+  margin: auto;
+  max-width: 640px;
+  padding-top: 60px;
+  text-align: center;
+}
+
+.container {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+h1 {
+  color: #130f40;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: -.5px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+
+/* Upload Section */
+.upload-container {
+  background-color: rgb(239, 239, 239);
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.border-container {
+  border: 5px dashed rgba(198, 198, 198, 0.65);
+  padding: 20px;
+}
+
+.border-container p {
+  color: #130f40;
+  font-weight: 600;
+  font-size: 1.1em;
+  letter-spacing: -1px;
+  margin-top: 30px;
+  margin-bottom: 0;
+  opacity: 0.65;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+legend {
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #eee;
+}
+
+fieldset label {
+  display: block;
+  margin-bottom: 2px; /* Reduced space between labels */
+}
+
+input[type="radio"] {
+  margin-right: 5px; /* Existing style */
+}
+
+select {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: inherit;
+  width: 100%;
+  margin-bottom: 5px; /* Reduced margin for spacing */
+}
+
+/* File Browser Link */
+#file-browser {
+  text-decoration: none;
+  color: rgb(22,42,255);
+  border-bottom: 3px dotted rgba(22, 22, 255, 0.85);
+}
+
+#file-browser:hover {
+  color: rgb(0, 0, 255);
+  border-bottom: 3px dotted rgba(0, 0, 255, 0.85);
+}
+
+/* Icons */
+.icons {
+  color: #95afc0;
+  opacity: 0.55;
+}
+
+/* File Upload Input */
+input[type="file"] {
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+/* Submit Button */
+button[type="submit"] {
+  background-color: #130f40;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-top: 20px;
+}
+
+button[type="submit"]:hover {
+  background-color: #0d0b30;
+}
+/* Data Preview Section */
+.preview-container {
+  width: 1200px; /* Adjust width as needed */
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(239, 239, 239);
+  border-radius: 6px;
+}
+
+/* Train Section */
+#train-section {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional subtle shadow */
+}
+
+.data-preview,
+.training-config,
+#training-status {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); /* Optional subtle shadow */
+}
+
+/* Training Status */
+#training-message {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.progress-bar {
+  height: 5px;
+  background-color: #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  background-color: #007bff; /* Adjust color as desired */
+  width: 0%;
+  transition: width 0.5s ease-in-out; /* Animation for progress bar */
+}
+
+/* Test Section */
+fieldset {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+/* Tooltips */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  opacity: 0;
+  transition
+
+: opacity 0.3s;
+  width: 120px;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Media Queries */
+@media (max-width: 600px) {
+  .navbar .menu {
+    flex-direction: column;
+  }
+  .dropdown-content {
+    right: 0;
+    left: auto;
+    min-width: 140px;
+  }
+}
+
+/*preview table*/
+table.dataframe {
+  border: 1px solid #ddd;
+  width: 100%;
+}
+table.dataframe th, table.dataframe td {
+  padding: 5px;
+  text-align: left;
+} 

@@ -1,0 +1,201 @@
+Transaction ID,Payment Date,Payment Amount,Payment Method,Tax Type,Taxpayer ID,Taxpayer Industry,Province,Town/City,Income Level
+5bf615fc-7a60-4fd8-9ce8-f50c6b7c6715,2022-10-12,3726.04,Bank Transfer,VAT,21c97ac7-5c07-4602-aac2-5f69576b0e77,Manufacturing,Lusaka,Mansa,High
+bebb8d4e-76c8-4122-a160-3618fd81ebc7,2023-05-12,7473.25,Cash,Income Tax,841b2846-1715-4d00-b8c2-cbd265cd98a8,Construction,Central,Mansa,Low
+8c16c0db-ff86-42b1-a749-0d4a20632329,2023-12-29,8268.02,Bank Transfer,VAT,93a029a9-520a-42ae-bf45-6737abdd341f,Healthcare,Southern,Mansa,Low
+62d2109e-ba65-4304-a006-5dd5a59f51ae,2023-12-21,9583.75,Debit Card,VAT,1584ecc4-c9d0-49c4-8c58-e3ace02b4276,Technology,Southern,Solwezi,Low
+0312be27-3c61-40db-bff1-d123c19ff5df,2023-08-23,3329.34,Cash,Property Tax,960a28e2-92ac-4a1a-925a-36bd1fd1b71f,Finance,Southern,Chipata,Medium
+21337bad-aee7-4dc4-9126-d4c80dbb7207,2023-03-27,1094.29,Debit Card,Corporate Tax,dd4a924b-524b-4d62-9477-9c5e7f9b687d,Finance,Southern,Kitwe,High
+8ede1c52-156a-40ab-827b-3b5c6ef904be,2023-10-17,1602.49,Bank Transfer,Sales Tax,d38d0635-49c1-4af3-b06e-5fe5a94f1c45,Construction,Central,Livingstone,Low
+a56c2ceb-4606-4127-b2ca-38f52716297d,2022-12-30,3866.85,Bank Transfer,VAT,9dd1b456-721b-4af6-9dcd-3d7e5bdfdde8,Technology,Lusaka,Ndola,High
+a038af28-be0f-4290-b418-9c28f8324287,2023-05-08,6408.7,Debit Card,Sales Tax,f1744f45-bd38-48f8-bc45-b5ee7f1ece04,Manufacturing,Western,Kasama,Low
+8e9e625e-5e44-42f7-b6ad-2414d111a1ce,2023-12-21,4742.28,Bank Transfer,Corporate Tax,6d04be19-aa56-4ad1-81eb-3b35170bdb0d,Construction,Copperbelt,Chipata,Medium
+24137d79-a5e4-4edc-a804-220df8f1241b,2023-12-14,2915.07,Cash,Sales Tax,3ceb2786-42a9-4a09-95c9-12efaecbd204,Technology,North-Western,Ndola,High
+bbc8e612-8d18-4fbc-9938-21aed3b81eb6,2024-03-17,7396.69,Bank Transfer,Income Tax,73554c84-7887-4080-99bd-07e24a54ab67,Retail,Western,Livingstone,High
+1492a601-f086-4f42-a62a-036ab74a9770,2023-08-03,9981.84,Bank Transfer,VAT,64431d5e-eb47-445b-9dc4-f4c998e70693,Finance,Lusaka,Chipata,Low
+78d1749a-ffe0-4d50-9420-a9c0b23372b1,2024-03-10,2238.9,Bank Transfer,Income Tax,1f8fae3e-ae53-4fd3-a26a-8146905a0ead,Construction,Northern,Solwezi,High
+2b0a0f94-3902-469d-a6d2-357f2f3fa5b3,2023-11-19,5945.28,Debit Card,VAT,1dc38b73-e25c-482a-b2ad-515d6dd8a9d3,Retail,Copperbelt,Chipata,High
+56a52ff5-539b-493a-8f30-95f1ccfb5260,2023-10-18,1562.17,Mobile Money,Corporate Tax,ad0773e3-574b-4206-89b0-83fba0edf812,Retail,Copperbelt,Kitwe,High
+e574a0d2-1366-4d70-809b-4cb1eecc75f2,2024-04-16,5184.79,Mobile Money,Income Tax,04f1a9da-a402-4e6f-a904-9acafcf9e3f0,Manufacturing,Eastern,Solwezi,High
+12ef3726-de5c-425c-9a5a-90a4e80a73cf,2024-05-06,4628.11,Bank Transfer,Income Tax,fe674f4c-ddc3-4b5b-abb3-23e32b51768d,Construction,Lusaka,Kitwe,High
+76b2d939-88e0-4fbb-9b1c-9151ec4b8314,2023-12-27,2024.57,Debit Card,Property Tax,5fc98e46-e2a9-4bca-9324-d9ad749bb5c6,Construction,Southern,Mansa,Low
+3c669f3b-c99e-4854-b778-dcc92c91588a,2023-09-26,7428.66,Mobile Money,VAT,817b56c7-3a7d-41ed-bfb1-826436c4908a,Manufacturing,Lusaka,Ndola,Medium
+ba547817-1349-4c94-9247-c19db7368bae,2023-01-30,1625.3,Mobile Money,VAT,dd32ca73-a3c3-4e08-917d-c73635419c65,Retail,Lusaka,Kasama,High
+a28313f1-fddf-409c-b06a-d84263688b85,2024-06-26,2937.17,Cash,Sales Tax,494bc726-7674-4649-a6f6-7ce7b2fafff8,Finance,North-Western,Lusaka,Low
+bcdcc5a0-0e41-417d-8d5e-ad4f32b2872f,2024-07-03,9668.42,Cash,Property Tax,defb12b1-0f0d-4eef-bd67-39696478e6dd,Construction,Copperbelt,Lusaka,Low
+53bfadc2-29c4-45e3-80c5-026d95c77c52,2023-08-31,5529.82,Bank Transfer,Property Tax,b469603c-9637-4fa8-9b45-226821df4d7c,Manufacturing,North-Western,Chipata,High
+2610e6aa-9ccc-47e2-bdc4-2baaad07187d,2023-01-06,2885.54,Cash,Corporate Tax,9c41464d-ceb6-450d-a2cd-7bc600f765a3,Finance,Lusaka,Ndola,High
+8bff282d-e65c-4634-856f-28caa250aace,2023-10-07,1380.82,Mobile Money,Corporate Tax,787c1506-0adc-443e-a30a-63d250d197de,Healthcare,Central,Chipata,High
+73fecd8b-9885-4967-a1ae-4db1da123c55,2023-05-11,4934.11,Debit Card,Property Tax,422e6a2e-89eb-4f36-b8eb-82051ef4edb8,Healthcare,Western,Kasama,High
+29195ece-ee14-4ac0-b48b-5386a6512464,2023-07-08,6724.73,Bank Transfer,VAT,dacb1edd-8a90-4b33-9b55-72a251c2a275,Healthcare,Northern,Solwezi,Low
+8d5f0155-d1e1-460b-b8fe-8d797b107572,2023-03-11,5459.17,Debit Card,VAT,c6225e24-6237-4216-9400-7d7db8b60691,Technology,Central,Kasama,High
+a4fe096e-212a-4fb1-8f0a-693153a048c6,2023-04-28,1398.23,Mobile Money,VAT,15e103a1-49df-4e1f-b23f-40f0bb63abcd,Finance,Northern,Livingstone,Medium
+21615d89-d2a2-4322-aa79-e6c707a11943,2023-10-30,5618.8,Mobile Money,Sales Tax,2d34c073-a520-4636-a6a3-973999b1f111,Finance,Southern,Livingstone,Medium
+4620159f-94cc-44fb-b2cb-b62b7fc0108a,2023-10-24,8010.57,Mobile Money,Property Tax,21973103-d3a7-4e3b-9b55-e9e16fe6579b,Technology,Northern,Kitwe,Medium
+825c11f3-57c7-44f8-9f38-baa59df5c1da,2023-04-15,2031.74,Mobile Money,Income Tax,6b9e93e3-1be7-484c-a6f6-5174dbae9dc7,Healthcare,Central,Kitwe,Low
+374b2698-3a82-4e76-9aff-d8f625ff41d9,2023-08-08,1937.63,Mobile Money,Income Tax,b0665e8e-760e-4f8b-9d5a-80a2f1037214,Finance,Central,Kasama,High
+4b3c9c3f-bf18-4ccb-9b05-c8aed5eaa208,2024-06-05,3200.02,Mobile Money,Sales Tax,707c9691-bc99-4f0f-bdb5-3379c9c0b482,Manufacturing,Copperbelt,Kitwe,Low
+8a91701f-0109-4b17-b40a-2b58b02c70a0,2023-11-16,2076.23,Mobile Money,Sales Tax,a535a0e0-bc13-462b-a089-f401e07ab2eb,Construction,Copperbelt,Solwezi,Low
+a1946654-f117-470e-a915-3d7444da4182,2022-10-10,8496.28,Bank Transfer,Corporate Tax,c9c47c48-5eaf-4bd8-aff9-1ea932e99abc,Construction,Eastern,Ndola,Low
+5dd8dbe3-f5ac-48d5-9f10-3f558914dc2d,2024-02-22,9424.8,Mobile Money,Property Tax,4401c978-1c0b-4810-baf1-5573a9765759,Manufacturing,Central,Kasama,Low
+8c76620c-66e7-445a-af1d-ec1091d8c6fd,2022-12-09,2416.94,Cash,Sales Tax,fb2dc917-33a0-43b0-98f6-7a155ca622e4,Healthcare,Eastern,Chipata,Low
+14d1645f-4598-47fa-b359-a5658ddf96b7,2023-02-17,6960.46,Bank Transfer,VAT,fc7877e8-dd89-4a1d-80f3-7519f1ee8bef,Retail,Lusaka,Kitwe,High
+2db63bfa-6809-45da-ad21-e66db3bc4c62,2023-10-13,8429.79,Cash,Corporate Tax,cb558422-f03b-469f-ac8b-97be0db02576,Healthcare,Eastern,Ndola,High
+fb5c79b8-9568-4cb4-b344-567f91d31bf7,2023-08-18,5449.5,Bank Transfer,Property Tax,a605b1f1-1dc9-4412-ad4b-1a5d2bdcedba,Technology,Southern,Solwezi,High
+4235cecd-b440-4285-9e23-6b3a7bad56d6,2023-01-12,8935.36,Cash,Property Tax,b5de47da-ffee-48ff-aaa5-4131fde8422d,Finance,North-Western,Kitwe,High
+355db770-ccda-4785-b187-d659d457f3be,2024-08-31,6951.1,Cash,Corporate Tax,a8451704-7d65-4cc1-a9b0-a886300b7e2b,Construction,Eastern,Livingstone,High
+2662182f-66e9-47d3-a19e-9bf5f7ba067d,2023-12-03,9969.9,Bank Transfer,Income Tax,19a88de1-cabe-4b93-b14d-b7dcb137dff3,Healthcare,Central,Mansa,High
+7633ffa5-3db5-4b62-a6d0-77ba7001126c,2024-01-23,9633.11,Cash,Sales Tax,7e20089f-6187-480a-b2d1-3e8abc547b71,Technology,Western,Chipata,High
+e0552f31-a79a-4f0a-97ad-4235bbd4abb8,2024-03-11,112.03,Debit Card,VAT,bc2baa30-d003-4357-935c-6297523b22a4,Finance,Western,Kitwe,Low
+4e7ddcf5-233c-4fd0-9e22-440abcaf76b1,2022-09-15,4982.24,Bank Transfer,Sales Tax,6e0d4617-b472-4b7e-8756-4213437a89fd,Manufacturing,Southern,Livingstone,Low
+bea40ac0-0f05-45fd-8833-1485ac46feb0,2024-03-21,7992.1,Debit Card,Property Tax,211c9438-8af1-48fd-abcb-7deeb274c5aa,Construction,Western,Mansa,Low
+578f4c33-6c3c-46fa-a6aa-195f3c628373,2024-06-28,4801.3,Debit Card,Sales Tax,9346fcea-fd1f-4d83-8c7b-6f2c6629c9e2,Finance,North-Western,Chipata,Medium
+238424b5-d288-40a4-8b70-b6c7a4cb62e3,2024-06-28,726.03,Cash,Income Tax,edbcef4d-b274-4a75-91fe-032413131834,Construction,North-Western,Kitwe,High
+60c7c250-241d-45ed-9e99-9add30847873,2023-05-09,9466.62,Bank Transfer,Property Tax,e55a5d93-a660-4976-9b1c-7a005a9056f1,Manufacturing,Northern,Kitwe,Medium
+eec9800f-dd25-4e58-95bc-053541dd24f2,2023-11-12,1013.54,Cash,Corporate Tax,10e511ec-26f1-4a24-8420-6160d277e96c,Finance,Copperbelt,Livingstone,High
+fd2e25d7-8739-4fba-a621-7d799cb3d566,2024-01-14,707.09,Bank Transfer,VAT,15d190b0-8e6b-495b-812c-77406fdc7109,Finance,Lusaka,Kitwe,Low
+5e289075-5fa8-4d94-b25c-0955e265686c,2023-01-10,5545.02,Mobile Money,VAT,a2876691-e75a-46c9-90f4-79e368615a58,Construction,Northern,Mansa,High
+3c9c1939-a272-4503-be45-60314cbc6b26,2022-12-25,6372.81,Bank Transfer,Income Tax,b132cd56-c8c7-4802-8c88-27ce2fa33598,Technology,Copperbelt,Kitwe,Low
+760b19d9-e040-46f9-af9a-456599569ad9,2023-04-20,6141.33,Cash,Corporate Tax,15a2f05e-48a0-4f11-afb3-384321fba6ff,Finance,North-Western,Kasama,High
+444d8505-4406-41f0-8c34-44fa89eb8343,2022-09-14,950.24,Mobile Money,Income Tax,a0b5fc3c-1c97-43b6-8b78-5789f85c28fb,Retail,Lusaka,Lusaka,Medium
+e9a6346e-2651-44dc-9067-bbf09222d68a,2022-12-15,6467.25,Mobile Money,Sales Tax,66613d99-64e0-4a4a-b215-e1e869230391,Manufacturing,Western,Ndola,Medium
+78bcd428-25f8-4a5b-9962-34f44eeaf9cc,2024-06-20,4269.53,Cash,Sales Tax,0900b0bb-224d-4df4-bec4-6dce13b485bd,Healthcare,Eastern,Ndola,Low
+a804ab96-00a5-48f4-bed3-1d76ebae32a1,2023-07-02,3913.57,Bank Transfer,Corporate Tax,b8809b2c-f3f7-4b1f-b5f4-6a5e03a91cf0,Manufacturing,Eastern,Mansa,High
+6ed28342-fed9-4fc4-99ff-d897afda696a,2022-12-31,1128.54,Bank Transfer,Sales Tax,daa8c68e-ada7-4b55-be09-19b13c79aab9,Retail,Eastern,Kasama,Medium
+85b75820-a0a8-49cb-afa2-98138b7ba0f8,2023-06-27,7818.92,Debit Card,Corporate Tax,4d8bd45e-fcf6-49ba-b726-706a7caf2521,Healthcare,Southern,Kasama,High
+8cb8791d-0d23-4179-bce2-616fbfc048e7,2023-07-26,7107.28,Debit Card,Property Tax,2ca2e218-2649-4a4d-a87b-bbfe6d3eb0d6,Retail,Eastern,Solwezi,Medium
+9c4535f8-a5fc-4aeb-949a-b0860f1c6420,2024-08-20,7923.75,Bank Transfer,Property Tax,360a6b5a-a0a2-4205-93c2-f78184624c6c,Technology,Southern,Chipata,Low
+8de49c37-91da-45d0-b55d-97316c42e7d9,2023-08-12,9942.14,Mobile Money,Income Tax,26a9fb71-1380-4352-9024-72fc1f1e2001,Manufacturing,Eastern,Lusaka,High
+88b8c5db-864a-4f8a-8285-1a5d4fb47fa6,2024-08-08,7765.4,Debit Card,Corporate Tax,f8883e0c-53fb-4564-a631-a32dfebf684e,Retail,Northern,Livingstone,High
+a6eabe09-1689-419a-8c35-cf062dc3aea1,2024-05-27,3052.83,Debit Card,Income Tax,7c09876b-ff49-4b64-9068-727a57e0a6e9,Technology,Northern,Solwezi,Low
+73738207-b4e5-4a26-93a9-77db285f6f70,2024-03-31,4479.6,Mobile Money,Income Tax,860f0680-049d-42dc-9128-3c5bc3e71bfa,Construction,Lusaka,Kasama,Low
+6c887c26-ea60-495d-b2f2-268a65064b19,2023-06-07,3117.46,Mobile Money,VAT,b2f79812-cba6-42c4-a783-99d205360df2,Manufacturing,Northern,Livingstone,Medium
+06ed0ed1-4a78-40f8-acfa-9c8c04539729,2022-11-14,334.1,Bank Transfer,Corporate Tax,86499de0-ef6c-432e-b1ad-73ecdf059583,Finance,Eastern,Kasama,Medium
+b3e6091a-3e57-4521-a079-fe2f1645121b,2022-11-19,3655.4,Debit Card,Income Tax,946df9f8-7fd9-40b1-92b0-6165c0f17d0e,Construction,Lusaka,Solwezi,Medium
+5f5c6ace-fa64-4262-9b80-bf4f2a1e1e5e,2024-03-31,3179.83,Mobile Money,Sales Tax,ff8a37b1-5d3c-46b7-b4e6-32831f158472,Technology,Southern,Mansa,High
+200b6216-c29a-47ff-8347-926451ddb0ba,2023-09-26,3536.93,Mobile Money,VAT,60016aa1-ea64-4857-8661-cfd5a4512da8,Retail,Copperbelt,Livingstone,Medium
+70a980f2-8c4b-4ec9-b8ca-443349fa903f,2024-03-16,5508.09,Bank Transfer,Sales Tax,8e0da031-7538-4bea-be97-fb7d55d1358c,Manufacturing,Northern,Solwezi,Medium
+a1a03a89-850f-4c20-8fe8-1830454753bd,2024-07-26,5860.79,Debit Card,Corporate Tax,6456c75b-9337-419f-adea-3b3b0f5e6bfc,Retail,Eastern,Chipata,Low
+a6215cf4-8506-4bcb-b7c9-254a99c82379,2022-10-31,1768.08,Bank Transfer,Property Tax,5368a3d1-9a87-42ac-b499-014823a5a387,Retail,Central,Ndola,High
+86abf260-35a0-43fe-8e93-a52813055538,2024-05-14,2529.07,Mobile Money,Property Tax,216f073f-384e-4b27-969c-4ef233ac77e9,Finance,Lusaka,Solwezi,Low
+093a3d77-f140-42a6-b211-972bda57a15b,2023-09-13,2572.18,Mobile Money,Income Tax,d2981237-bb72-428e-839b-74c711972fd7,Finance,Northern,Livingstone,High
+c541933a-dd7e-459d-8ca5-5136e5fdc3f1,2023-04-22,6621.78,Mobile Money,Property Tax,87b1a857-c234-4cda-bb42-8b41eb7eaee7,Manufacturing,Eastern,Mansa,Medium
+4ab4a995-32cd-4d83-ba7d-7a52e561a8fe,2023-12-21,2555.52,Bank Transfer,Corporate Tax,e660bdec-9b05-44d9-a89d-6abdc66be602,Retail,Copperbelt,Solwezi,Medium
+6cabc269-0331-41db-921e-31a5ca60d5db,2023-07-01,4408.46,Debit Card,VAT,202db9fa-748c-454c-8c3f-713f20ed11bc,Construction,Eastern,Kasama,Medium
+85bfee19-d57f-4df8-af62-efbab8a2ed75,2024-04-30,5201.76,Mobile Money,Property Tax,21d76255-f883-4c2b-8ee6-ec95657061ed,Construction,Copperbelt,Ndola,Low
+bd3573d7-ef62-4ef1-8814-3273cd14f973,2022-12-11,5687.57,Cash,Income Tax,4f2aeec1-ccaf-497a-ba3c-9a5b589fcb5b,Finance,Lusaka,Kitwe,Medium
+7745c6eb-de28-409b-bb1b-d9291ed217d1,2023-08-21,4680.07,Debit Card,Corporate Tax,bd379f1b-85dd-44f6-86c3-5131c221ef84,Finance,Central,Mansa,Low
+dca36e3f-7e5f-4ada-bf29-81a53768267f,2023-12-22,7947.4,Cash,Property Tax,11ddf3bb-381d-4aa7-b187-e1b2c0c6e123,Retail,Eastern,Kasama,High
+6d0a3ebc-f69f-46fc-9169-5e3afea1129a,2022-09-09,4658.17,Cash,Corporate Tax,ee1065d4-fef5-4186-97e1-1308c5e3f6ab,Manufacturing,Lusaka,Mansa,High
+d266e068-3a51-4ab3-b0ec-3f1dc2692d25,2024-08-25,1348.58,Mobile Money,VAT,834239e0-e3fb-4344-a67d-ebeb6a608fa5,Retail,North-Western,Livingstone,Medium
+0daee8e4-07e1-4736-925a-c6e1b1487fcb,2023-02-08,5651.1,Bank Transfer,Sales Tax,09e5f9dc-484e-4ab3-aac9-ed061a33abab,Finance,Eastern,Solwezi,Low
+1ed8a9d7-49e3-403c-91af-a39400b5bd4a,2024-02-26,8622.19,Cash,VAT,07bcd1c1-4c0f-410b-a15c-dd7130d0bb07,Finance,Southern,Solwezi,Low
+018a73ec-336f-4f27-971c-f87aae6b6dd8,2023-08-19,9470.45,Bank Transfer,Income Tax,26a31dae-faac-44ce-97bf-7cfd86f77399,Construction,Southern,Chipata,Low
+c4b45b5a-b30a-45f6-bda0-aebfc58cd699,2022-09-12,1107.06,Mobile Money,Property Tax,b69d5441-b0bd-4911-b268-17f84bdeda23,Healthcare,Southern,Kasama,High
+ca514b49-33d8-4727-9870-7755434d7051,2023-06-08,2574.06,Bank Transfer,Property Tax,6f0f92b0-c250-4fd7-b8ca-4f2594c570c7,Manufacturing,Eastern,Chipata,Medium
+0445997e-ddaa-436c-b418-5e8bc34f30fb,2024-04-12,8598.88,Bank Transfer,Property Tax,bc05d2fe-d583-407a-aa89-207e8ded6aef,Manufacturing,North-Western,Mansa,Low
+c5646fcf-706a-4953-861e-fe0c344e4e0c,2024-07-07,8706.32,Mobile Money,Corporate Tax,143c01b8-f2ef-4e49-a62f-d8c66fb8c59f,Healthcare,Northern,Solwezi,Low
+c22f67ca-d8ed-4b6c-bc5b-289d439ec4ab,2023-10-10,9730.66,Mobile Money,Property Tax,e09696f9-6373-4538-8501-f9a8ff2bb1ab,Healthcare,Eastern,Kasama,High
+cb42abec-fcc1-4411-b9af-2c4b2bed5dbf,2023-12-08,4127.91,Debit Card,VAT,d5991811-4649-40e2-9623-3c2545b64ecc,Retail,Northern,Mansa,High
+fc78f279-4e8a-4a82-a364-09506b360dd1,2024-05-21,1407.37,Mobile Money,Sales Tax,fd547e39-d16f-4b28-8326-7bdf1eb843e9,Technology,North-Western,Ndola,Low
+44ac87f6-60bc-4bdf-ab6e-e6781e2884ac,2024-07-17,2956.97,Mobile Money,Income Tax,79229260-9534-4fc5-b9e2-d6470f0fce1d,Finance,Eastern,Kasama,Low
+6ad17b54-6fec-4fb6-8f8c-5667874912c0,2024-06-11,5693.29,Debit Card,VAT,67e51077-c3a9-4764-a64d-8d2abdc3f01f,Technology,Southern,Chipata,Low
+103aed46-7901-4c48-95ee-7fc53296b13c,2024-08-03,358.06,Mobile Money,VAT,637518e6-3453-44d6-8ee0-e6e618812a70,Finance,Northern,Ndola,High
+3b71929f-c4b3-4ce3-a3b0-e8d7380b448a,2024-03-06,5697.61,Mobile Money,Sales Tax,dd62dbfd-22f9-49ca-9a43-8358dcc28b93,Manufacturing,Western,Ndola,High
+67fc7a56-3e3e-4ed4-8f2a-a6ec66045516,2023-04-08,9885.31,Debit Card,Corporate Tax,e9c598e6-1213-4e82-ab42-f51a9b2a9263,Technology,Central,Lusaka,Medium
+4999e2b1-545d-4756-9d8e-fef0d0c88376,2022-12-01,8907.16,Bank Transfer,Property Tax,c661d437-ae44-453e-9eba-0c77a58669a1,Technology,Copperbelt,Kitwe,High
+0a91c526-507e-4e7b-a359-11eade89a82c,2022-12-26,7729.94,Mobile Money,Sales Tax,204cd55d-c79c-4888-80b3-2891bef3d5ec,Manufacturing,Southern,Kasama,Low
+feb14039-3010-48c7-a8b8-9904f4fc1432,2023-02-17,1815.11,Cash,Sales Tax,b3e6a276-25ca-4c13-9830-99c8793ebabd,Technology,Lusaka,Livingstone,High
+e9ed4c53-725c-49c2-ac51-7a21b4223d6d,2023-11-11,8545.57,Bank Transfer,VAT,8e9e64e2-e9a1-45af-a3c8-3ae9d28b9263,Manufacturing,Central,Ndola,Low
+4add821d-330b-49ae-bcf6-20e7d9af7ac8,2024-01-29,9261.29,Cash,Corporate Tax,df973e2c-6099-4683-9e3f-754553af8f87,Technology,Lusaka,Kitwe,High
+8f52b8a5-37f6-4fd2-82a8-c06add872ecd,2024-04-16,4579.16,Bank Transfer,Corporate Tax,aa9f150c-da6f-4035-b741-4b090f7dab04,Retail,Eastern,Chipata,Low
+a539354d-3b69-416d-98c5-da3c9363c23b,2024-06-12,1068.32,Mobile Money,Income Tax,281999c9-4fb5-4b6c-91a2-8d20b6cbcdc9,Retail,Northern,Solwezi,Medium
+817f6fae-146b-41be-a54f-8af782c11170,2023-01-28,6194.39,Cash,Income Tax,1efb132a-7309-4f36-8554-a2ec09440131,Retail,Lusaka,Mansa,Medium
+9b9ef65e-9078-4072-b666-ef24fc464748,2023-11-14,3754.71,Bank Transfer,VAT,479dfedb-22c7-4140-b6cc-27ecacbd24b8,Technology,Copperbelt,Livingstone,Medium
+810e0730-040d-4260-a944-48171a2c677b,2024-08-09,6421.44,Bank Transfer,Property Tax,f5752b2b-9362-4a10-9772-c4fc2796a98c,Finance,Western,Solwezi,Medium
+8c2807f9-65de-4b00-8be4-dd2051e823c9,2023-04-08,6707.36,Bank Transfer,VAT,3a01f2f7-db24-4d7a-96fa-d98f52736c88,Manufacturing,Lusaka,Livingstone,Low
+b9cfeab9-6294-49dd-8c29-d5128dec0892,2024-04-24,3414.94,Cash,Income Tax,40ab9f9e-51e6-4089-9d7c-6617c720ac8e,Technology,Lusaka,Lusaka,High
+d7bcc92c-ce30-4d17-8fb8-764a226663b5,2023-05-06,7059.77,Mobile Money,VAT,1f529dcf-94df-4470-8996-b51e2022c9b9,Finance,Southern,Ndola,Medium
+caf0e7fe-fa5e-4ca5-a8ce-1fec783d31b8,2023-10-04,1069.55,Debit Card,Corporate Tax,27b4bbc1-5ccb-44f4-aa22-6989a306110d,Manufacturing,Southern,Chipata,Medium
+0984c401-a447-4cde-a9c1-e83d9e69b0c1,2023-06-20,7636.78,Cash,VAT,3913a5d0-36fe-4733-ba95-59cf9e2d455b,Construction,Northern,Solwezi,High
+daebf620-0524-41ce-bd1c-5db2ffe0794f,2022-12-16,1023.06,Bank Transfer,VAT,9b959452-48df-4a5c-903a-bc3fab628a9d,Manufacturing,Northern,Ndola,High
+0bc8b67b-a83e-42fa-9b6f-601170d29572,2024-08-26,1055.36,Cash,VAT,4da908c8-7969-43ac-8a80-c845b5924b42,Technology,Western,Lusaka,Low
+3e6b1d98-76f1-43fe-a955-eb5e80797766,2023-01-13,8095.84,Bank Transfer,Corporate Tax,ac7510f4-3735-4b40-b8b5-3722be157732,Manufacturing,Southern,Lusaka,Low
+a52300d1-d21b-499f-ab5a-0ea0d4213caa,2024-03-04,2663.0,Cash,Property Tax,6a9eb4f4-7e40-4821-b697-d31c4a593502,Retail,Eastern,Lusaka,High
+4d67e643-80ae-49da-a166-35be9158c17f,2024-06-03,4217.6,Mobile Money,Property Tax,fd987960-7338-4a0c-8eb8-d0fb99a5dce7,Retail,Central,Lusaka,High
+f2607a81-cdb8-4bd9-bc0c-22d190f5acdf,2023-07-07,1675.41,Cash,VAT,1c127046-5c13-4819-b81d-01510668f3e3,Technology,Southern,Mansa,Low
+0faf496d-d703-4cde-9100-138132d263db,2023-12-15,7892.57,Cash,VAT,99130378-994e-4625-8f39-1458c0880da1,Technology,Copperbelt,Kasama,High
+e0d80d7f-43f6-4bad-8459-83f51c7c8df3,2024-06-07,9032.34,Mobile Money,Property Tax,f0adbaaa-331c-4d30-84df-8f37874ad786,Technology,Northern,Ndola,Low
+2b6edd26-bdb2-45cf-aedd-a562bb9f0dcc,2024-07-23,4615.91,Mobile Money,Property Tax,93fc6195-0724-4e36-a293-2a3671e5296f,Retail,Central,Kasama,Medium
+aa98f8d0-cd6b-4366-a98a-832e8589d496,2024-04-18,2417.41,Bank Transfer,Corporate Tax,a3ac9cff-fc90-4db7-ba8e-df663042d3ef,Healthcare,Northern,Mansa,High
+5223a154-e39d-47c1-8778-45b619745bc4,2024-06-14,3983.8,Mobile Money,Property Tax,add6e9fc-6f84-4de2-bac0-be6d1a0358e2,Finance,Lusaka,Kasama,High
+59bfa471-1b01-4d2c-83f6-a569ede9e159,2023-05-15,8671.99,Mobile Money,Income Tax,b898f501-7997-4b56-8d5a-b24176bc30ec,Construction,Copperbelt,Lusaka,High
+27acc194-93f7-41a9-b5dc-d7df2f47036c,2024-04-23,7430.52,Debit Card,Sales Tax,d8bd8de1-4018-45e3-8c4c-771b9be92b45,Healthcare,Western,Solwezi,High
+b8bce622-0c3e-4a4c-9f89-d9ef455c1215,2023-06-10,8273.81,Mobile Money,Income Tax,59c78702-5b81-4b9d-b9d7-ee0d280a10ea,Construction,North-Western,Lusaka,Medium
+a44f66d0-a492-4b1e-a229-472318fb6499,2024-05-12,2328.04,Cash,Property Tax,37cfd2ff-d80d-40e6-aaea-05e33f707c43,Construction,Eastern,Ndola,Low
+d6b53755-f60c-46a2-a8d3-f955254f62e6,2024-05-23,9591.31,Mobile Money,VAT,90a0360c-0f4d-4537-9800-2ebeb3d0a433,Retail,Northern,Lusaka,Medium
+869e4b36-de8d-48d1-b42a-4a5b4d359c25,2024-02-22,692.85,Cash,Property Tax,e1bff145-e33e-4984-9fd0-f05cbb3a3d14,Technology,Eastern,Kitwe,Medium
+e3f625fe-6118-47ff-bbd1-b514d9abc6ba,2023-08-19,2248.25,Mobile Money,Property Tax,b1b7b81d-92b8-4647-9610-57f4e11e0c3f,Technology,Southern,Solwezi,High
+33a317a0-8d2e-4d61-a07f-cc397b792c81,2024-02-08,5694.92,Mobile Money,Sales Tax,9248c4bf-7071-40c2-b01a-b92ae20b5a55,Retail,Southern,Chipata,Low
+852a498a-7f60-43c5-a41c-81264b92c787,2023-06-09,5430.39,Bank Transfer,Property Tax,c7d6d2c0-2d8b-4b97-b852-1426b75e0aff,Technology,Eastern,Lusaka,High
+7001616d-892f-4a65-8b56-be586f06beca,2024-09-01,7181.15,Bank Transfer,Income Tax,d7a95ed6-1ca0-4965-8fcb-3810b3453061,Finance,Western,Kitwe,Medium
+43a466a0-bef5-4fcf-a71a-b7ca6e1c785a,2023-01-10,1999.33,Cash,Corporate Tax,87b58f85-8ab4-434e-bc8b-7f95d0769069,Manufacturing,Eastern,Kasama,Low
+5df276b6-4e12-411f-9635-0cb03b108088,2022-12-09,8492.22,Cash,Property Tax,f5da5670-12f9-4ee4-8869-3710ba466cd4,Finance,Central,Solwezi,Low
+dc3144e4-1723-4db1-86c4-1d1bb03f7556,2023-10-24,1169.7,Bank Transfer,Income Tax,49e50b1f-5ac4-41bf-bc3f-2af15305a7be,Healthcare,Central,Kitwe,High
+a61dfa47-3a5c-4794-8353-f6cd1e996e98,2022-09-07,7036.92,Bank Transfer,Income Tax,c99158a4-5da2-4bb3-8bc0-5b4913862e64,Construction,Northern,Mansa,Low
+e5a7e13c-edc3-4dcb-bbbb-e5512ef8e745,2023-01-17,6143.07,Debit Card,Property Tax,ac617e79-782a-467c-b5c0-71b65dc6d736,Healthcare,Lusaka,Kasama,High
+45d4f1f2-47c8-4bd2-81a5-ac8018c44758,2022-11-11,6617.05,Bank Transfer,Income Tax,b47f1b4b-996c-4c13-9ff9-d0de92df3f84,Finance,North-Western,Kitwe,High
+2ea722ee-83bc-40a2-afcd-980608570c13,2024-05-17,8532.9,Mobile Money,Corporate Tax,57e3dfc0-e73f-436e-bf12-0c001e52782c,Finance,Western,Kasama,High
+4d1fe46c-9d36-4887-9813-5298cf329226,2024-03-03,7448.09,Debit Card,VAT,2886fa3f-524b-40ff-b9ff-5f74bb85502b,Finance,Lusaka,Kasama,High
+380fec11-1ac1-4de8-88bc-68d1656d052b,2024-04-12,834.99,Debit Card,Sales Tax,fbf65b84-f867-4427-abf7-c849df258cc1,Healthcare,Northern,Ndola,Medium
+ff612495-6efd-40e3-b9b6-f07ecb71296b,2023-02-15,627.01,Debit Card,Corporate Tax,e263d83b-e53a-4ed2-a8f0-a1f4b6d86331,Healthcare,Southern,Kasama,High
+9cebff45-5e2d-477e-90ad-583999bd682a,2023-08-05,5518.09,Bank Transfer,VAT,ec697cf5-1154-4a3e-92f1-28ab847b2e8a,Healthcare,Western,Kasama,Low
+675e636e-c5c2-4081-acdb-9d9179d2018f,2023-11-23,3092.23,Cash,Sales Tax,9d2b91d3-6379-4c9f-8268-f1e8b12e278c,Finance,North-Western,Mansa,Medium
+670473ee-63c3-4f43-b9c3-e429f15729e8,2023-07-10,8257.56,Bank Transfer,Sales Tax,b89b0dbb-82fb-4788-bd6f-8704b9ec21b9,Healthcare,Southern,Mansa,Low
+3960ed5c-5214-4afc-8f43-1bf493156312,2023-12-06,912.03,Cash,Corporate Tax,ca10fd5f-4e5c-41b5-a252-484c8ff51683,Technology,Eastern,Mansa,Low
+24bce061-fceb-4db7-9821-45a998321edc,2023-03-25,1279.71,Cash,Corporate Tax,96de1e7e-cc55-45a6-a15e-71c15bb5bb69,Finance,Copperbelt,Mansa,Medium
+f5368003-27ee-48f1-bc57-d5986d6bb619,2022-10-25,231.6,Cash,Property Tax,5e2aaecd-b752-4928-b6bd-168e703de021,Retail,Central,Solwezi,Medium
+e6f732dd-0776-4ae8-a74f-c5ef0483a6e5,2024-06-12,4897.64,Bank Transfer,Income Tax,5eb08bbc-1da5-445e-847c-c6661cb0f140,Retail,North-Western,Livingstone,High
+2dbb7ba6-7a19-475d-ae2d-a992afc811c3,2023-12-22,9761.17,Mobile Money,Corporate Tax,7b2530e9-025c-4098-aa4c-3ba5ac8b9b2d,Retail,North-Western,Livingstone,Low
+c06ed8ab-1873-40b4-a633-873cb392d099,2023-03-09,9337.77,Bank Transfer,Sales Tax,95d3cd21-74c5-49c1-8e2b-96eaabaf741f,Finance,Eastern,Mansa,Medium
+f5c75961-a7ab-435c-867c-0bfa860fa46c,2023-12-18,135.7,Mobile Money,VAT,acd54c4a-d0b5-4be6-8bb3-875c1eca4b8b,Technology,Southern,Ndola,Medium
+bc839f85-cf1d-4736-975f-06f482a38280,2022-10-25,121.07,Mobile Money,Corporate Tax,a4c9cc5a-f9b4-4b5d-8927-1968ead4a943,Finance,Copperbelt,Solwezi,Low
+dfdea88f-c6f4-4f2e-bfa8-302507c99de9,2024-07-24,9790.55,Bank Transfer,Corporate Tax,a7bffc7d-a815-49c4-b001-f1d68c7e410f,Technology,Copperbelt,Lusaka,Low
+4296d3d2-3d06-431e-858c-8114c91fe37c,2023-10-24,3058.63,Cash,Property Tax,3c3fe752-f456-42c7-83cd-729a1de6d679,Construction,Copperbelt,Solwezi,Low
+05822932-e7de-47a0-9aaf-65c5df3b678d,2024-03-14,4459.71,Mobile Money,Property Tax,07710251-8f4f-4378-bf14-f76f4ed7620b,Technology,Copperbelt,Solwezi,Medium
+f0515f1c-5225-479f-89b5-7a9fdaff8925,2024-03-26,159.97,Cash,Corporate Tax,ea8fbb9e-3556-498a-914d-264a171b51cd,Finance,North-Western,Lusaka,Medium
+bc8570b8-c4ce-4d51-9499-4440d52b9a02,2024-02-23,9029.35,Bank Transfer,Income Tax,324affa8-33b1-4b35-8778-a434923c28e7,Finance,Western,Ndola,High
+5b0c9ad6-5fae-45ad-8c9f-e49ae0988e91,2022-11-13,5613.85,Debit Card,Corporate Tax,7d7b63ae-b5f1-42b3-9386-8c9eb31c5a75,Construction,Southern,Mansa,Low
+785ebe7d-68e8-4a6f-86f9-0ed7d409fb46,2023-05-21,466.31,Cash,Income Tax,708c2842-3b85-44a9-af5e-e6866d7e4647,Healthcare,Lusaka,Chipata,High
+3d239e0b-03ff-4dbb-8511-1d3e8b6ca72b,2024-05-29,2763.91,Debit Card,Income Tax,5137eba8-1cb8-4eee-94ce-d746f32731a5,Finance,Lusaka,Lusaka,Medium
+f391c59a-17ad-4e5a-96f2-be49482c7b9e,2023-07-11,3839.49,Debit Card,Corporate Tax,09f3cd6b-cc78-400f-99f6-27d711b8a52d,Healthcare,Central,Chipata,Low
+9d67283d-644b-4926-91a0-3429b6fb8ab9,2023-09-03,8938.18,Cash,Property Tax,fecf136a-c0b4-4e4b-aa82-3a3b6e4ce23e,Manufacturing,Eastern,Kitwe,Low
+c856f49a-9ee7-4b5e-93b1-3a1972ce9003,2023-07-17,316.25,Cash,Sales Tax,712a34ff-6bad-4bd5-ab0b-d9a747e06873,Retail,Central,Solwezi,High
+3bec9eda-dd23-4216-bd67-df796c1f0313,2023-09-21,9793.73,Mobile Money,Corporate Tax,33b70da9-a213-4214-991c-85268ce15c83,Technology,Lusaka,Livingstone,High
+81de3568-2a42-4e30-ad34-09aaa9e24e83,2023-05-22,7712.47,Debit Card,Income Tax,e2a84bbc-95ed-4161-80b2-ed2cfa6e4974,Technology,Central,Solwezi,High
+55073e92-00e3-410c-83e4-5e39519f2d49,2024-04-22,7381.76,Mobile Money,Income Tax,f92c3e33-6304-4238-9d08-a4977e5091e8,Finance,Northern,Ndola,Low
+b8ba9607-8585-49a3-841e-bb54d2311df2,2024-05-15,5863.12,Cash,Income Tax,ad34c47a-e493-4876-ae36-12424cc09ca5,Healthcare,North-Western,Mansa,Low
+3a69c3e5-ff83-47b0-914d-48d69bec055d,2022-10-07,4664.44,Bank Transfer,Corporate Tax,3a8bae2f-f155-44f0-b5b9-6d634d4a8a5d,Technology,Northern,Livingstone,Low
+a6bb1621-1da1-4338-96c3-d87292195c6b,2023-05-11,6802.43,Mobile Money,Corporate Tax,7f976717-be5a-43fa-a34c-3e7dfa3e5c77,Finance,Lusaka,Livingstone,High
+2ab52c71-c32f-4540-9755-b49f34f0d86f,2023-10-15,2716.32,Debit Card,Corporate Tax,3ad39291-7aa8-4a19-817f-147ec193517b,Technology,Western,Livingstone,Low
+bf71849d-7177-4caa-9747-db437ab05563,2023-10-09,2303.17,Mobile Money,Property Tax,646bcc75-94d5-4381-bc4b-ba4ff408071e,Healthcare,Western,Lusaka,Medium
+796509f1-24ab-4b23-b9c0-640a3264caff,2023-09-06,3658.67,Bank Transfer,VAT,ae1327e7-7448-44dd-9dd0-109052bc379e,Construction,Central,Kasama,Medium
+33e24975-26e5-41ab-b1ff-458043fcd1a5,2023-07-29,4167.86,Cash,Corporate Tax,ba911ee1-de60-43cf-8cef-d3cc7f3e2897,Finance,Lusaka,Mansa,Low
+b14dcdb8-c04c-480f-af2e-4202b2492298,2023-03-30,5282.21,Debit Card,VAT,3a05d719-38fb-4088-b91c-b79c115f4f33,Retail,Southern,Livingstone,High
+e854675e-cae1-4a95-a569-b86ba2fa71bb,2023-03-17,5019.31,Bank Transfer,Corporate Tax,c46e3d0c-ed88-4773-ad93-4dff5d4600ed,Retail,Lusaka,Solwezi,High
+91be94d0-a960-49cf-a9e2-4fc006a91f30,2022-12-02,1989.43,Cash,Corporate Tax,9fbe607c-cbd9-4527-837e-b542e6addb20,Finance,Western,Kitwe,High
+64c1a370-1203-449c-9c58-4cf1383c4101,2023-01-13,3067.44,Bank Transfer,Property Tax,b8b8da67-6e98-4080-9899-e7094065afee,Retail,Central,Chipata,Medium
+ff148069-d8c7-4ea3-82f9-98304a13f222,2024-07-06,8592.56,Mobile Money,Income Tax,2bf3ac1a-ce03-4ffe-bf07-8240eb9e1af2,Healthcare,Lusaka,Lusaka,Low
+ac9e6865-fdba-4e74-b4af-7d4b0a1ca314,2022-09-09,1125.99,Mobile Money,Property Tax,042662e3-8a55-47af-9984-ae7d65806add,Construction,Western,Mansa,Low
+9b0435f7-5a33-47ad-b95e-b7938cefb824,2024-03-31,7754.8,Debit Card,VAT,8b1b561f-bf88-45b9-b2e2-a317530de80a,Manufacturing,Copperbelt,Kitwe,High
+3b9f361f-9c48-4ad1-a630-9c453d3480ab,2024-06-03,4056.88,Debit Card,Sales Tax,82f21050-06bd-40f5-9427-081a6e9dc9d4,Technology,Eastern,Kasama,High
+e35f8a31-6041-4b90-9cad-01b7019cc4fd,2023-07-15,485.98,Bank Transfer,VAT,1e124e3f-e524-4095-b540-700f038cb23d,Technology,North-Western,Ndola,Low
+5faa6b09-b238-4ffc-a7e1-580eec466e3a,2024-06-05,740.36,Cash,Corporate Tax,b602bf2b-42a5-45f2-bd4c-09853546a711,Finance,Central,Livingstone,High
+93dcf73e-60d9-4d36-bb35-a7cc27a10914,2024-08-31,4403.37,Debit Card,Corporate Tax,97e1e111-41e3-4fe3-8c0f-98d2d1b845a7,Finance,North-Western,Livingstone,High
+e3911690-f550-4fe8-b380-b453b7fd9dde,2023-10-04,1814.73,Debit Card,VAT,11f37d37-cff6-45b0-86eb-8e3ffbfdb8de,Manufacturing,Lusaka,Mansa,Medium
+d043f2a3-cd18-4e10-a2ce-b310ea1038e4,2023-08-23,2231.87,Cash,Income Tax,60448084-f4b4-43f0-81fd-b54ebce7ed45,Retail,Central,Chipata,Low
+bf4a42d5-778f-4000-88b6-f4927083d3c9,2024-05-26,4390.43,Bank Transfer,Sales Tax,c5dcc2ec-1497-41b3-a73a-b7dd66e0adbf,Healthcare,Southern,Kasama,Medium
+4404ec03-1752-49bc-a5ae-e7980f3451b7,2023-03-05,2871.23,Debit Card,Corporate Tax,b43a5117-4f8a-451f-b0f9-7eea377ec112,Finance,Southern,Mansa,Medium
+f45eb98c-fda8-4729-9bd3-d6aef3f3cf71,2022-10-04,594.9,Cash,Property Tax,c7effd90-e4c5-4303-8147-0b98dd1a9558,Healthcare,Western,Kasama,Medium
+4b2f4a8b-caf0-4d1d-a18c-ce5a5f9fa7fb,2022-10-05,203.99,Bank Transfer,Sales Tax,785e475a-227b-49f9-bb56-853eef9a4c01,Construction,Lusaka,Chipata,Medium
+a1de9a38-7634-4855-8cc6-77ed1aec1239,2024-07-09,2529.47,Cash,Corporate Tax,f6279a0f-99d8-431a-9e0d-0890080b4fb0,Healthcare,Western,Solwezi,Low
+8ca7f085-04e0-42a5-a457-8170f5084ea5,2024-03-09,6860.51,Mobile Money,Corporate Tax,b73b9866-08f5-461a-92a9-dec8172176fe,Finance,Southern,Lusaka,High
